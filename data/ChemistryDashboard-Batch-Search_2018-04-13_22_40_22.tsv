@@ -1,0 +1,413 @@
+INPUT	FOUND_BY	DTXSID	PREFERRED_NAME	CASRN	INCHIKEY	IUPAC_NAME	DATA_SOURCES	QSAR_READY_SMILES
+cefapirin	Synonym from Valid Source	DTXSID9022784	Cephapirin	21593-23-7	UQLLWWBDSUHNEB-CZUORRHYSA-N	(6R,7R)-3-[(Acetyloxy)methyl]-8-oxo-7-{2-[(pyridin-4-yl)sulfanyl]acetamido}-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid	28	CC(=O)OCC1=C(N2C(SC1)C(NC(=O)CSC1=CC=NC=C1)C2=O)C(O)=O
+iopamidol	Approved Name	DTXSID1023158	Iopamidol	60166-93-0	XQZXYNRDCRIARQ-LURJTMIESA-N	N~1~,N~3~-Bis(1,3-dihydroxypropan-2-yl)-5-{[(2S)-2-hydroxypropanoyl]amino}-2,4,6-triiodobenzene-1,3-dicarboxamide	33	CC(O)C(=O)NC1=C(I)C(C(=O)NC(CO)CO)=C(I)C(C(=O)NC(CO)CO)=C1I
+gabapentin	Approved Name	DTXSID0020074	Gabapentin	60142-96-3	UGJMXCAKCUNAIE-UHFFFAOYSA-N	[1-(Aminomethyl)cyclohexyl]acetic acid	53	NCC1(CC(O)=O)CCCCC1
+methazolamide	Approved Name	DTXSID1023281	Methazolamide	554-57-4	FLOSMHQXBMRNHR-UHFFFAOYSA-N	N-(3-Methyl-5-sulfamoyl-1,3,4-thiadiazol-2(3H)-ylidene)acetamide	38	CN1N=C(SC1=NC(C)=O)S(N)(=O)=O
+cefoxitin	Approved Name	DTXSID1022764	Cefoxitin	35607-66-0	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	(6R,7S)-3-[(Carbamoyloxy)methyl]-7-methoxy-8-oxo-7-[2-(thiophen-2-yl)acetamido]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid	38	COC1(NC(=O)CC2=CC=CS2)C2SCC(COC(N)=O)=C(N2C1=O)C(O)=O
+clidinium bromide	Approved Name	DTXSID7022835	Clidinium bromide	3485-62-9	GKEGFOKQMZHVOW-UHFFFAOYSA-M	3-{[Hydroxy(diphenyl)acetyl]oxy}-1-methyl-1-azabicyclo[2.2.2]octan-1-ium bromide	24	C[N+]12CCC(CC1)C(C2)OC(=O)C(O)(C1=CC=CC=C1)C1=CC=CC=C1
+alimemazine	Synonym from Valid Source	DTXSID9023708	Trimeprazine	84-96-8	ZZHLYYDVIOPZBE-UHFFFAOYSA-N	N,N,2-Trimethyl-3-(10H-phenothiazin-10-yl)propan-1-amine	32	CC(CN(C)C)CN1C2=CC=CC=C2SC2=C1C=CC=C2
+iopromide	Approved Name	DTXSID0023163	Iopromide	73334-07-3	DGAIEPBNLOQYER-UHFFFAOYSA-N	N~1~,N~3~-Bis(2,3-dihydroxypropyl)-2,4,6-triiodo-5-(2-methoxyacetamido)-N~1~-methylbenzene-1,3-dicarboxamide	46	COCC(=O)NC1=C(I)C(C(=O)NCC(O)CO)=C(I)C(C(=O)N(C)CC(O)CO)=C1I
+sulfamonomethoxine	Approved Name	DTXSID8045351	Sulfamonomethoxine	1220-83-3	WMPXPUYPYQKQCX-UHFFFAOYSA-N	4-Amino-N-(6-methoxypyrimidin-4-yl)benzene-1-sulfonamide	39	COC1=NC=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=C1
+pyrithyldione	Approved Name	DTXSID4045262	Pyrithyldione	77-04-3	NZASCBIBXNPDMH-UHFFFAOYSA-N	3,3-Diethylpyridine-2,4(1H,3H)-dione	34	CCC1(CC)C(=O)NC=CC1=O
+DL-thiorphan	NO_MATCH	-	-	-	-	-	-	-
+alpha-yohimbine	Synonym	DTXSID2045608	Rauwolscine	131-03-3	BLGXFZZNTVWLAY-DIRVCLHFSA-N	Methyl (16beta,17alpha,20alpha)-17-hydroxyyohimban-16-carboxylate	23	COC(=O)C1C(O)CCC2CN3CCC4=C(NC5=CC=CC=C45)C3CC12
+corynanthine	NO_MATCH	-	-	-	-	-	-	-
+salsolinol	NO_MATCH	-	-	-	-	-	-	-
+Prestwick-691	NO_MATCH	-	-	-	-	-	-	-
+mycophenolic acid	Approved Name	DTXSID4041070	Mycophenolic acid	24280-93-1	HPNSFSBZBAHARI-RUDMXATFSA-N	(4E)-6-(4-Hydroxy-6-methoxy-7-methyl-3-oxo-1,3-dihydro-2-benzofuran-5-yl)-4-methylhex-4-enoic acid	48	COC1=C(C)C2=C(C(=O)OC2)C(O)=C1C\C=C(/C)CCC(O)=O
+harmalol	NO_MATCH	-	-	-	-	-	-	-
+metacycline	Synonym from Valid Source	DTXSID2023272	Methacycline	914-00-1	MHIGBKBJSQVXNH-IWVLMIASSA-N	(4S,4aR,5S,5aR,12aS)-4-(Dimethylamino)-3,5,10,12,12a-pentahydroxy-6-methylidene-1,11-dioxo-1,4,4a,5,5a,6,11,12a-octahydrotetracene-2-carboxamide	26	CN(C)C1C2C(O)C3C(=C)C4=C(C(O)=CC=C4)C(=O)C3=C(O)C2(O)C(=O)C(C(N)=O)=C1O
+Prestwick-984	NO_MATCH	-	-	-	-	-	-	-
+pronetalol	Synonym	DTXSID8021193	Pronethalol	54-80-8	HRSANNODOVBCST-UHFFFAOYSA-N	1-(Naphthalen-2-yl)-2-[(propan-2-yl)amino]ethan-1-ol	30	CC(C)NCC(O)C1=CC2=CC=CC=C2C=C1
+etofenamate	Approved Name	DTXSID2045448	Etofenamate	30544-47-9	XILVEPYQJIOVNB-UHFFFAOYSA-N	2-(2-Hydroxyethoxy)ethyl 2-[3-(trifluoromethyl)anilino]benzoate	33	OCCOCCOC(=O)C1=C(NC2=CC=CC(=C2)C(F)(F)F)C=CC=C1
+cyclopenthiazide	Approved Name	DTXSID4022868	Cyclopenthiazide	742-20-1	BKYKPTRYDKTTJY-UHFFFAOYSA-N	6-Chloro-3-(cyclopentylmethyl)-1,1-dioxo-1,2,3,4-tetrahydro-1lambda~6~,2,4-benzothiadiazine-7-sulfonamide	35	NS(=O)(=O)C1=C(Cl)C=C2NC(CC3CCCC3)NS(=O)(=O)C2=C1
+meptazinol	Approved Name	DTXSID6048543	Meptazinol	54340-58-8	JLICHNCFTLFZJN-UHFFFAOYSA-N	3-(3-Ethyl-1-methylazepan-3-yl)phenol	22	CCC1(CCCCN(C)C1)C1=CC(O)=CC=C1
+nifurtimox	Approved Name	DTXSID3045439	Nifurtimox	23256-30-6	ARFHIAQFJWUCFH-UHFFFAOYSA-N	3-Methyl-4-{[(5-nitrofuran-2-yl)methylidene]amino}-1lambda~6~-thiomorpholine-1,1-dione	31	CC1CS(=O)(=O)CCN1N=CC1=CC=C(O1)[N+]([O-])=O
+pancuronium bromide	Approved Name	DTXSID9023415	Pancuronium bromide	15500-66-0	NPIJXCQZLFKBMV-YTGGZNJNSA-L	(2beta,3alpha,5alpha,16beta,17beta)-3,17-Bis(acetyloxy)-2,16-bis(1-methylpiperidin-1-ium-1-yl)androstane dibromide	31	CC(=O)OC1C(CC2C3CCC4CC(OC(C)=O)C(CC4(C)C3CCC12C)[N+]1(C)CCCCC1)[N+]1(C)CCCCC1
+gibberellic acid	Approved Name	DTXSID0020656	Gibberellic acid	77-06-5	IXORZMNAPKEEDV-OBDJNFEBSA-N	(1S,2S,4aR,4bR,7S,9aS,10S,10aR)-2,7-Dihydroxy-1-methyl-8-methylidene-13-oxo-1,2,4b,5,6,7,8,9,10,10a-decahydro-4a,1-(epoxymethano)-7,9a-methanobenzo[a]azulene-10-carboxylic acid	71	CC12C3C(C(O)=O)C45CC(=C)C(O)(C4)CCC5C3(OC1=O)C=CC2O
+naftopidil	Approved Name	DTXSID5045176	Naftopidil	57149-07-2	HRRBJVNMSRJFHQ-UHFFFAOYSA-N	1-[4-(2-Methoxyphenyl)piperazin-1-yl]-3-[(naphthalen-1-yl)oxy]propan-2-ol	27	COC1=C(C=CC=C1)N1CCN(CC(O)COC2=CC=CC3=C2C=CC=C3)CC1
+sitosterol	Synonym from Valid Source	DTXSID5022481	beta-Sitosterol	83-46-5	KZJWDPNRJALLNS-VJSFXXLFSA-N	(3beta)-Stigmast-5-en-3-ol	49	CCC(CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)C(C)C
+fluvoxamine	Approved Name	DTXSID2044002	Fluvoxamine	54739-18-3	CJOFXWAVKWHTFT-XSFVSMFZSA-N	2-{[(E)-{5-Methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene}amino]oxy}ethan-1-amine	36	COCCCC\C(=N/OCCN)C1=CC=C(C=C1)C(F)(F)F
+etamsylate	NO_MATCH	-	-	-	-	-	-	-
+apramycin	Approved Name	DTXSID5045465	Apramycin	37321-09-8	XZNUGFQTQHRASN-XQENGBIVSA-N	(2R,3R,4S,5S,6S)-5-Amino-2-{[(2R,3S,4R,4aR,6S,7R,8aS)-7-amino-6-{[(1R,2R,3S,4R,6S)-4,6-diamino-2,3-dihydroxycyclohexyl]oxy}-4-hydroxy-3-(methylamino)octahydropyrano[3,2-b]pyran-2-yl]oxy}-6-(hydroxymethyl)oxane-3,4-diol (non-preferred name)	31	CNC1C(O)C2OC(OC3C(N)CC(N)C(O)C3O)C(N)CC2OC1OC1OC(CO)C(N)C(O)C1O
+letrozole	Approved Name	DTXSID4023202	Letrozole	112809-51-5	HPJKCIUCZWXJDR-UHFFFAOYSA-N	4,4'-[(1H-1,2,4-Triazol-1-yl)methylene]dibenzonitrile	66	N#CC1=CC=C(C=C1)C(N1C=NC=N1)C1=CC=C(C=C1)C#N
+tracazolate	Approved Name	DTXSID3046956	Tracazolate	41094-88-6	PCTRYMLLRKWXGF-UHFFFAOYSA-N	Ethyl 4-(butylamino)-1-ethyl-6-methyl-1H-pyrazolo[3,4-b]pyridine-5-carboxylate	16	CCCCNC1=C(C(=O)OCC)C(C)=NC2=C1C=NN2CC
+sotalol	Approved Name	DTXSID0023589	Sotalol	3930-20-9	ZBMZVLHSJCTVON-UHFFFAOYSA-N	N-(4-{1-Hydroxy-2-[(propan-2-yl)amino]ethyl}phenyl)methanesulfonamide	44	CC(C)NCC(O)C1=CC=C(NS(C)(=O)=O)C=C1
+proscillaridin	Approved Name	DTXSID5023532	Proscillaridin	466-06-8	MYEJFUXQJGHEQK-ALRJYLEOSA-N	(3beta)-3-[(6-Deoxy-alpha-L-mannopyranosyl)oxy]-14-hydroxybufa-4,20,22-trienolide	34	CC1OC(OC2CCC3(C)C4CCC5(C)C(CCC5(O)C4CCC3=C2)C2=COC(=O)C=C2)C(O)C(O)C1O
+cefalonium	Approved Name	DTXSID5045388	Cefalonium	5575-21-3	FMZXNVLFJHCSAF-DNVCBOLYSA-N	(6R,7R)-3-[(4-Carbamoylpyridin-1-ium-1-yl)methyl]-8-oxo-7-[2-(thiophen-2-yl)acetamido]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	28	NC(=O)C1=CC=[N+](CC2=C(N3C(SC2)C(NC(=O)CC2=CC=CS2)C3=O)C(O)=O)C=C1
+molindone	Approved Name	DTXSID9023332	Molindone	7416-34-4	KLPWJLBORRMFGK-UHFFFAOYSA-N	3-Ethyl-2-methyl-5-[(morpholin-4-yl)methyl]-1,5,6,7-tetrahydro-4H-indol-4-one	25	CCC1=C(C)NC2=C1C(=O)C(CN1CCOCC1)CC2
+epitiostanol	Approved Name	DTXSID2045367	Epitiostanol	2363-58-8	OBMLHUPNRURLOK-XGRAFVIBSA-N	(2alpha,3alpha,5alpha,17beta)-2,3-Epithioandrostan-17-ol	22	CC12CCC3C(CCC4CC5SC5CC34C)C1CCC2O
+moxonidine	Approved Name	DTXSID5045170	Moxonidine	75438-57-2	WPNJAUFVNXKLIM-UHFFFAOYSA-N	4-Chloro-N-(4,5-dihydro-1H-imidazol-2-yl)-6-methoxy-2-methylpyrimidin-5-amine	31	COC1=NC(C)=NC(Cl)=C1NC1=NCCN1
+zardaverine	Approved Name	DTXSID8042559	Zardaverine	101975-10-4	HJMQDJPMQIHLPB-UHFFFAOYSA-N	6-[4-(Difluoromethoxy)-3-methoxyphenyl]pyridazin-3(2H)-one	29	COC1=CC(=CC=C1OC(F)F)C1=NNC(=O)C=C1
+oxamniquine	Approved Name	DTXSID3023398	Oxamniquine	21738-42-1	XCGYUJZMCCFSRP-UHFFFAOYSA-N	(7-Nitro-2-{[(propan-2-yl)amino]methyl}-1,2,3,4-tetrahydroquinolin-6-yl)methanol	36	CC(C)NCC1CCC2=CC(CO)=C(C=C2N1)[N+]([O-])=O
+sanguinarine	Approved Name	DTXSID0045204	Sanguinarine	2447-54-3	INVGWHRKADIJHF-UHFFFAOYSA-N	13-Methyl-2H,10H-[1,3]benzodioxolo[5,6-c][1,3]dioxolo[4,5-i]phenanthridin-13-ium	37	C[N+]1=CC2=C(C=CC3=C2OCO3)C2=C1C1=C(C=C2)C=C2OCOC2=C1
+Prestwick-967	NO_MATCH	-	-	-	-	-	-	-
+fluticasone	Approved Name	DTXSID0044022	Fluticasone	90566-53-3	MGNNYOODZCAHBA-GQKYHHCASA-N	S-(Fluoromethyl) (6alpha,11beta,16alpha,17alpha)-6,9-difluoro-11,17-dihydroxy-16-methyl-3-oxoandrosta-1,4-diene-17-carbothioate	19	CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)SCF
+fursultiamine	Approved Name	DTXSID0023084	Fursultiamine	804-30-8	JTLXCMOFVBXEKD-UHFFFAOYSA-N	N-[(4-Amino-2-methylpyrimidin-5-yl)methyl]-N-(5-hydroxy-3-{[(oxolan-2-yl)methyl]disulfanyl}pent-2-en-2-yl)formamide	25	C\C(N(CC1=C(N)N=C(C)N=C1)C=O)=C(\CCO)SSCC1CCCO1
+etilefrine	Approved Name	DTXSID1023029	Etilefrine	709-55-7	SQVIAVUSQAWMKL-UHFFFAOYSA-N	3-[2-(Ethylamino)-1-hydroxyethyl]phenol	28	CCNCC(O)C1=CC=CC(O)=C1
+tocainide	Approved Name	DTXSID9040766	Tocainide	41708-72-9	BUJAGSGYPOAWEI-UHFFFAOYSA-N	N-(2,6-Dimethylphenyl)alaninamide	25	CC(N)C(=O)NC1=C(C)C=CC=C1C
+zalcitabine	Expert Validated Synonym	DTXSID0023747	2',3'-Dideoxycytidine	7481-89-2	WREGKURFCTUGRC-POYBYMJQSA-N	4-Amino-1-[(2R,5S)-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2(1H)-one	53	NC1=NC(=O)N(C=C1)C1CCC(CO)O1
+memantine	Approved Name	DTXSID5045174	Memantine	19982-08-2	BUGYDGFZZOZRHP-UHFFFAOYSA-N	3,5-Dimethyladamantan-1-amine	35	CC12CC3CC(C)(C1)CC(N)(C3)C2
+harpagoside	NO_MATCH	-	-	-	-	-	-	-
+decamethonium bromide	Approved Name	DTXSID2022886	Decamethonium bromide	541-22-0	HLXQFVXURMXRPU-UHFFFAOYSA-L	N~1~,N~1~,N~1~,N~10~,N~10~,N~10~-Hexamethyldecane-1,10-bis(aminium) dibromide	25	C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C
+zuclopenthixol	Approved Name	DTXSID3048233	Zuclopenthixol	53772-83-1	WFPIAZLQTJBIFN-DVZOWYKESA-N	2-{4-[(3Z)-3-(2-Chloro-9H-thioxanthen-9-ylidene)propyl]piperazin-1-yl}ethan-1-ol	17	OCCN1CCN(CC\C=C2\C3=C(SC4=C2C=C(Cl)C=C4)C=CC=C3)CC1
+gabexate	Approved Name	DTXSID9048566	Gabexate	39492-01-8	YKGYIDJEEQRWQH-UHFFFAOYSA-N	Ethyl 4-[(6-carbamimidamidohexanoyl)oxy]benzoate	16	CCOC(=O)C1=CC=C(OC(=O)CCCCCNC(N)=N)C=C1
+benzathine benzylpenicillin	Integrated Source Name	DTXSID2047804	Benzathine penicillin G	1538-09-6	BVGLIYRKPOITBQ-ANPZCEIESA-N	(2S,5R,6R)-3,3-Dimethyl-7-oxo-6-(2-phenylacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid--N~1~,N~2~-dibenzylethane-1,2-diamine (2/1)	22	-
+methyldopate	Approved Name	DTXSID8048523	Methyldopate	2544-09-4	SVEBYYWCXTVYCR-LBPRGKRZSA-N	Ethyl 3-hydroxy-alpha-methyl-L-tyrosinate	8	CCOC(=O)C(C)(N)CC1=CC(O)=C(O)C=C1
+alprostadil	Approved Name	DTXSID9022578	Alprostadil	745-65-3	GMVPRGQOIOIIMI-DWKJAMRDSA-N	(11alpha,13E,15S)-11,15-Dihydroxy-9-oxoprost-13-en-1-oic acid	40	CCCCCC(O)\C=C/C1C(O)CC(=O)C1CCCCCCC(O)=O
+ozagrel	Approved Name	DTXSID6048547	Ozagrel	82571-53-7	SHZKQBHERIJWAO-AATRIKPKSA-N	(2E)-3-{4-[(1H-Imidazol-1-yl)methyl]phenyl}prop-2-enoic acid	16	OC(=O)\C=C\C1=CC=C(CN2C=CN=C2)C=C1
+3-acetamidocoumarin	Approved Name	DTXSID80228528	3-Acetamidocoumarin	779-30-6	XJYLCCJIDYSFMB-UHFFFAOYSA-N	N-(2-Oxo-2H-1-benzopyran-3-yl)acetamide	9	CC(=O)NC1=CC2=CC=CC=C2OC1=O
+asiaticoside	NO_MATCH	-	-	-	-	-	-	-
+proguanil	Synonym from Valid Source	DTXSID3022794	Chlorguanide	500-92-5	SSOLNOMRVKKSON-UHFFFAOYSA-N	N-(4-Chlorophenyl)-N'-propan-2-yltriimidodicarbonic diamide	30	CC(C)NC(=N)NC(=N)NC1=CC=C(Cl)C=C1
+pivampicillin	Approved Name	DTXSID1045459	Pivampicillin	33817-20-8	ZEMIJUDPLILVNQ-ZXFNITATSA-N	[(2,2-Dimethylpropanoyl)oxy]methyl (2S,5R,6R)-6-{[(2R)-2-amino-2-phenylacetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate	31	CC(C)(C)C(=O)OCOC(=O)C1N2C(SC1(C)C)C(NC(=O)C(N)C1=CC=CC=C1)C2=O
+tribenoside	Approved Name	DTXSID7023697	Tribenoside	10310-32-4	ULLNJSBQMBKOJH-SCNPRXQJSA-N	Ethyl (5xi)-3,5,6-tri-O-benzyl-beta-D-xylo-hexofuranoside	26	CCOC1OC(C(COCC2=CC=CC=C2)OCC2=CC=CC=C2)C(OCC2=CC=CC=C2)C1O
+levocabastine	Approved Name	DTXSID1048548	Levocabastine	79516-68-0	ZCGOMHNNNFPNMX-KYTRFIICSA-N	(3S,4R)-1-[(1s,4R)-4-Cyano-4-(4-fluorophenyl)cyclohexyl]-3-methyl-4-phenylpiperidine-4-carboxylic acid	18	CC1CN(CCC1(C(O)=O)C1=CC=CC=C1)C1CCC(CC1)(C#N)C1=CC=C(F)C=C1
+risperidone	Approved Name	DTXSID8045193	Risperidone	106266-06-2	RAPZEAPATHNIPO-UHFFFAOYSA-N	3-{2-[4-(6-Fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl}-2-methyl-6,7,8,9-tetrahydro-4H-pyrido[1,2-a]pyrimidin-4-one	46	CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCCC2=N1
+piribedil	Approved Name	DTXSID9045188	Piribedil	3605-01-4	OQDPVLVUJFGPGQ-UHFFFAOYSA-N	2-{4-[(2H-1,3-Benzodioxol-5-yl)methyl]piperazin-1-yl}pyrimidine	30	C(N1CCN(CC1)C1=NC=CC=N1)C1=CC2=C(OCO2)C=C1
+betulin	NO_MATCH	-	-	-	-	-	-	-
+roxarsone	Expert Validated Synonym	DTXSID9020956	4-Hydroxy-3-nitrophenylarsonic acid	121-19-7	XMVJITFPVVRMHC-UHFFFAOYSA-N	(4-Hydroxy-3-nitrophenyl)arsonic acid	50	-
+lymecycline	Approved Name	DTXSID9045344	Lymecycline	992-21-2	WLQCPSFWJHLZAY-CCZWQWCCSA-N	N~2~-({[(4S,4aS,6S,12aS)-4-(Dimethylamino)-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-1,4,4a,5,5a,6,11,12a-octahydrotetracene-2-carbonyl]amino}methyl)-L-lysine	19	CN(C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(=O)NCNC(CCCCN)C(O)=O)=C1O)C(=O)C1=C(C=CC=C1O)C3(C)O
+talampicillin	Approved Name	DTXSID1048540	Talampicillin	47747-56-8	SOROUYSPFADXSN-XDBZAZGESA-N	3-Oxo-1,3-dihydro-2-benzofuran-1-yl (2S,5R,6R)-6-[2-amino(phenyl)acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate	12	CC1(C)SC2C(NC(=O)C(N)C3=CC=CC=C3)C(=O)N2C1C(=O)OC1OC(=O)C2=C1C=CC=C2
+torasemide	Synonym from Valid Source	DTXSID2023690	Torsemide	56211-40-6	NGBFQHCMQULJNZ-UHFFFAOYSA-N	4-(3-Methylanilino)-N-[(propan-2-yl)carbamoyl]pyridine-3-sulfonamide	46	CC(C)NC(=O)NS(=O)(=O)C1=C(NC2=CC(C)=CC=C2)C=CN=C1
+rimexolone	Approved Name	DTXSID4045474	Rimexolone	49697-38-3	HJPMTDNGLRNDJA-ZVXCBTRXSA-N	Methyl (11beta,16alpha,17beta)-11-hydroxy-16,17-dimethyl-3-oxoandrosta-1,4-diene-17-carboxylate	22	COC(=O)C1(C)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C
+etomidate	Approved Name	DTXSID5023033	Etomidate	33125-97-2	NPUKDXXFDDZOKR-UHFFFAOYSA-N	Ethyl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate	42	CCOC(=O)C1=CN=CN1C(C)C1=CC=CC=C1
+spaglumic acid	Synonym	DTXSID0045385	N-Acetyl-L-aspartyl-L-glutamic acid	4910-46-7	GUCKKCMJTSNWCU-BQBZGAKWSA-N	N-Acetyl-L-beta-aspartyl-L-glutamic acid	19	CC(=O)NC(CC(=O)NC(CCC(O)=O)C(O)=O)C(O)=O
+ioxaglic acid	Approved Name	DTXSID5023166	Ioxaglic acid	59017-64-0	TYYBFXNZMFNZJT-UHFFFAOYSA-N	3-[(N-{3-[Acetyl(methyl)amino]-2,4,6-triiodo-5-(methylcarbamoyl)benzoyl}glycyl)amino]-5-[(2-hydroxyethyl)carbamoyl]-2,4,6-triiodobenzoic acid	31	CNC(=O)C1=C(I)C(N(C)C(C)=O)=C(I)C(C(=O)NCC(=O)NC2=C(I)C(C(=O)NCCO)=C(I)C(C(O)=O)=C2I)=C1I
+moracizine	Synonym from Valid Source	DTXSID4023335	Moricizine	31883-05-3	FUBVWMNBEHXPSU-UHFFFAOYSA-N	Ethyl {10-[3-(morpholin-4-yl)propanoyl]-10H-phenothiazin-2-yl}carbamate	24	CCOC(=O)NC1=CC2=C(SC3=CC=CC=C3N2C(=O)CCN2CCOCC2)C=C1
+phensuximide	Approved Name	DTXSID4023460	Phensuximide	86-34-0	WLWFNJKHKGIJNW-UHFFFAOYSA-N	1-Methyl-3-phenylpyrrolidine-2,5-dione	36	CN1C(=O)CC(C1=O)C1=CC=CC=C1
+S-propranolol	NO_MATCH	-	-	-	-	-	-	-
+tridihexethyl	Approved Name	DTXSID0048553	Tridihexethyl	60-49-1	NPRHVSBSZMAEIN-UHFFFAOYSA-N	3-Cyclohexyl-N,N,N-triethyl-3-hydroxy-3-phenylpropan-1-aminium	18	CC[N+](CC)(CC)CCC(O)(C1CCCCC1)C1=CC=CC=C1
+iopanoic acid	Approved Name	DTXSID6023159	Iopanoic acid	96-83-3	OIRFJRBSRORBCM-UHFFFAOYSA-N	2-[(3-Amino-2,4,6-triiodophenyl)methyl]butanoic acid	52	CCC(CC1=C(I)C=C(I)C(N)=C1I)C(O)=O
+netilmicin	Approved Name	DTXSID1048542	Netilmicin	56391-56-1	CIDUJQMULVCIBT-KALHTFJLSA-N	(1S,2S,3R,4S,6R)-4-Amino-3-{[3-amino-6-(aminomethyl)-3,4-dihydro-2H-pyran-2-yl]oxy}-6-(ethylamino)-2-hydroxycyclohexyl 3-deoxy-4-C-methyl-3-(methylamino)-beta-L-arabinopyranoside	16	CCNC1CC(N)C(OC2OC(CN)=CCC2N)C(O)C1OC1OCC(C)(O)C(NC)C1O
+cyclic adenosine monophosphate	NO_MATCH	-	-	-	-	-	-	-
+lansoprazole	Approved Name	DTXSID4023200	Lansoprazole	103577-45-3	MJIHNNLFOKEZEW-UHFFFAOYSA-N	2-{[3-Methyl-4-(2,2,2-trifluoroethoxy)pyridin-2-yl]methanesulfinyl}-1H-benzimidazole	59	CC1=C(OCC(F)(F)F)C=CN=C1CS(=O)C1=NC2=CC=CC=C2N1
+procarbazine	Approved Name	DTXSID4021189	Procarbazine	671-16-9	CPTBDICYNRMXFX-UHFFFAOYSA-N	4-[(2-Methylhydrazinyl)methyl]-N-(propan-2-yl)benzamide	52	CNNCC1=CC=C(C=C1)C(=O)NC(C)C
+penbutolol	Approved Name	DTXSID8023428	Penbutolol	38363-40-5	KQXKVJAGOJTNJS-HNNXBMFYSA-N	(2S)-1-(tert-Butylamino)-3-(2-cyclopentylphenoxy)propan-2-ol	26	CC(C)(C)NCC(O)COC1=C(C=CC=C1)C1CCCC1
+loracarbef	Approved Name	DTXSID7023223	Loracarbef	76470-66-1	JAPHQRWPEGVNBT-UTUOFQBUSA-N	(6R,7S)-7-{[(2R)-2-Amino-2-phenylacetyl]amino}-3-chloro-8-oxo-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid	22	NC(C(=O)NC1C2CCC(Cl)=C(N2C1=O)C(O)=O)C1=CC=CC=C1
+Prestwick-1083	NO_MATCH	-	-	-	-	-	-	-
+bethanechol	Approved Name	DTXSID2022676	Bethanechol	590-63-6	XXRMYXBSBOVVBH-UHFFFAOYSA-N	2-(Carbamoyloxy)-N,N,N-trimethylpropan-1-aminium chloride	32	CC(C[N+](C)(C)C)OC(N)=O
+pivmecillinam	Approved Name	DTXSID7048538	Pivmecillinam	32886-97-8	NPGNOVNWUSPMDP-HLLBOEOZSA-N	[(2,2-Dimethylpropanoyl)oxy]methyl (2S,5R,6R)-6-{[(azepan-1-yl)methylidene]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate	19	CC(C)(C)C(=O)OCOC(=O)C1N2C(SC1(C)C)C(N=CN1CCCCCC1)C2=O
+naftifine	Approved Name	DTXSID6048545	Naftifine	65472-88-0	OZGNYLLQHRPOBR-DHZHZOJOSA-N	(2E)-N-Methyl-N-[(naphthalen-1-yl)methyl]-3-phenylprop-2-en-1-amine	23	CN(C\C=C\C1=CC=CC=C1)CC1=C2C=CC=CC2=CC=C1
+Prestwick-1103	NO_MATCH	-	-	-	-	-	-	-
+viomycin	Approved Name	DTXSID0023741	Viomycin	32988-50-4	GXFAIFRPOKBQRV-GHXCTMGLSA-N	(3S)-3,6-Diamino-N-[(3S,6Z,9S,12S,15S)-3-[(4R,6S)-2-amino-6-hydroxy-3,4,5,6-tetrahydropyrimidin-4-yl]-6-[(carbamoylamino)methylidene]-9,12-bis(hydroxymethyl)-2,5,8,11,14-pentaoxo-1,4,7,10,13-pentaazacyclohexadecan-15-yl]hexanamide	22	NCCCC(N)CC(=O)NC1CNC(=O)C(NC(=O)\C(NC(=O)C(CO)NC(=O)C(CO)NC1=O)=C\NC(N)=O)C1CC(O)N=C(N)N1
+levopropoxyphene	Approved Name	DTXSID8023212	Levopropoxyphene	2338-37-6	XLMALTXPSGQGBX-PGRDOPGGSA-N	(2R,3S)-4-(Dimethylamino)-3-methyl-1,2-diphenylbutan-2-yl propanoate	18	CCC(=O)OC(CC1=CC=CC=C1)(C(C)CN(C)C)C1=CC=CC=C1
+nafcillin	Approved Name	DTXSID8023343	Nafcillin	147-52-4	GPXLMGHLHQJAGZ-JTDSTZFVSA-N	(2S,5R,6R)-6-[(2-Ethoxynaphthalene-1-carbonyl)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	28	CCOC1=C(C(=O)NC2C3SC(C)(C)C(N3C2=O)C(O)=O)C2=CC=CC=C2C=C1
+liothyronine	Expert Validated Synonym	DTXSID8023216	3,5,3'-Triiodothyronine	6893-02-3	AUYYCJSJGJYCDS-LBPRGKRZSA-N	O-(4-Hydroxy-3-iodophenyl)-3,5-diiodo-L-tyrosine	54	NC(CC1=CC(I)=C(OC2=CC(I)=C(O)C=C2)C(I)=C1)C(O)=O
+etidronic acid	Approved Name	DTXSID6023028	Etidronic acid	2809-21-4	DBVJJBKOTRCVKF-UHFFFAOYSA-N	(1-Hydroxyethane-1,1-diyl)bis(phosphonic acid)	57	CC(O)(P(O)(O)=O)P(O)(O)=O
+theophylline	Approved Name	DTXSID5021336	Theophylline	58-55-9	ZFXYFBGIUFBOJW-UHFFFAOYSA-N	1,3-Dimethyl-3,7-dihydro-1H-purine-2,6-dione	94	CN1C2=C(NC=N2)C(=O)N(C)C1=O
+spectinomycin	Approved Name	DTXSID9023592	Spectinomycin	1695-77-8	UNFWWIHTNXNPBV-WXKVUWSESA-N	(2R,4aR,5aR,6S,7S,8R,9S,9aR,10aS)-4a,7,9-Trihydroxy-2-methyl-6,8-bis(methylamino)decahydro-4H-pyrano[2,3-b][1,4]benzodioxin-4-one	35	CNC1C(O)C(NC)C2OC3(O)C(OC(C)CC3=O)OC2C1O
+cefsulodin	Approved Name	DTXSID6022769	Cefsulodin	62587-73-9	SYLKGLMBLAAGSC-IKZMBGHXSA-N	(6R,7R)-3-[(4-Carbamoylpyridin-1-ium-1-yl)methyl]-8-oxo-7-[2-phenyl(sulfo)acetamido]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	21	NC(=O)C1=CC=[N+](CC2=C(N3C(SC2)C(NC(=O)C(C2=CC=CC=C2)S(O)(=O)=O)C3=O)C(O)=O)C=C1
+benzthiazide	Approved Name	DTXSID4022658	Benzthiazide	91-33-8	NDTSRXAMMQDVSW-UHFFFAOYSA-N	3-[(Benzylsulfanyl)methyl]-6-chloro-1,1-dioxo-1,2-dihydro-1lambda~6~,2,4-benzothiadiazine-7-sulfonamide	40	NS(=O)(=O)C1=C(Cl)C=C2N=C(CSCC3=CC=CC=C3)NS(=O)(=O)C2=C1
+procyclidine	Approved Name	DTXSID2023515	Procyclidine	77-37-2	WYDUSKDSKCASEF-UHFFFAOYSA-N	1-Cyclohexyl-1-phenyl-3-(pyrrolidin-1-yl)propan-1-ol	31	OC(CCN1CCCC1)(C1CCCCC1)C1=CC=CC=C1
+Prestwick-864	NO_MATCH	-	-	-	-	-	-	-
+theobromine	Approved Name	DTXSID9026132	Theobromine	83-67-0	YAPQBXQYLJRXSA-UHFFFAOYSA-N	3,7-Dimethyl-3,7-dihydro-1H-purine-2,6-dione	80	CN1C=NC2=C1C(=O)NC(=O)N2C
+roxithromycin	Approved Name	DTXSID8041117	Roxithromycin	80214-83-1	RXZBMPWDPOLZGW-HITVVWEBSA-N	(3R,4S,5S,6R,7R,9R,11S,12R,13S,14R)-6-{[(2S,3R,4S,6R)-4-(Dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy}-14-ethyl-7,12,13-trihydroxy-4-{[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy}-10-{[(2-methoxyethoxy)methoxy]imino}-3,5,7,9,11,13-hexamethyl-1-oxacyclotetradecan-2-one (non-preferred name)	51	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O
+piromidic acid	Approved Name	DTXSID4045424	Piromidic acid	19562-30-2	RCIMBBZXSXFZBV-UHFFFAOYSA-N	8-Ethyl-5-oxo-2-(pyrrolidin-1-yl)-5,8-dihydropyrido[2,3-d]pyrimidine-6-carboxylic acid	35	CCN1C=C(C(O)=O)C(=O)C2=C1N=C(N=C2)N1CCCC1
+trichlormethiazide	Approved Name	DTXSID7023699	Trichlormethiazide	133-67-5	LMJSLTNSBFUCMU-UHFFFAOYSA-N	6-Chloro-3-(dichloromethyl)-1,1-dioxo-1,2,3,4-tetrahydro-1lambda~6~,2,4-benzothiadiazine-7-sulfonamide	45	NS(=O)(=O)C1=C(Cl)C=C2NC(NS(=O)(=O)C2=C1)C(Cl)Cl
+amiprilose	Approved Name	DTXSID9048483	Amiprilose	56824-20-5	YXBQLONCIPUQKO-ZLOUSURVSA-N	(5xi)-3-O-[3-(Dimethylamino)propyl]-1,2-O-(1-methylethylidene)-alpha-D-xylo-hexofuranose	8	CN(C)CCCOC1C(OC2OC(C)(C)OC12)C(O)CO
+tetroquinone	Approved Name	DTXSID9045897	Tetroquinone	319-89-1	DGQOCLATAPFASR-UHFFFAOYSA-N	2,3,5,6-Tetrahydroxycyclohexa-2,5-diene-1,4-dione	27	OC1=C(O)C(=O)C(O)=C(O)C1=O
+fosfosal	NO_MATCH	-	-	-	-	-	-	-
+beclometasone	Synonym from Valid Source	DTXSID5040750	Beclomethasone	4419-39-0	NBMKJKDGKREAPL-DVTGEIKXSA-N	(11beta,16beta)-9-Chloro-11,17,21-trihydroxy-16-methylpregna-1,4-diene-3,20-dione	29	CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(O)C(=O)CO
+reserpine	Approved Name	DTXSID7021237	Reserpine	50-55-5	QEVHRUUCFGRFIF-MDEJGZGSSA-N	Methyl (3beta,16beta,17alpha,18beta,20alpha)-11,17-dimethoxy-18-[(3,4,5-trimethoxybenzoyl)oxy]yohimban-16-carboxylate	93	COC1C(CC2CN3CCC4=C(NC5=CC(OC)=CC=C45)C3CC2C1C(=O)OC)OC(=O)C1=CC(OC)=C(OC)C(OC)=C1
+simvastatin	Approved Name	DTXSID0023581	Simvastatin	79902-63-9	RYMZZMVNJRMUDD-HGQWONQESA-N	(1S,3R,7S,8S,8aR)-8-{2-[(2R,4R)-4-Hydroxy-6-oxooxan-2-yl]ethyl}-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl 2,2-dimethylbutanoate	74	CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C12
+trimipramine	Approved Name	DTXSID8023715	Trimipramine	739-71-9	ZSCDBOWYZJWBIY-UHFFFAOYSA-N	3-(10,11-Dihydro-5H-dibenzo[b,f]azepin-5-yl)-N,N,2-trimethylpropan-1-amine	34	CC(CN(C)C)CN1C2=C(CCC3=C1C=CC=C3)C=CC=C2
+suprofen	Approved Name	DTXSID5045469	Suprofen	40828-46-4	MDKGKXOCJGEUJW-UHFFFAOYSA-N	2-[4-(Thiophene-2-carbonyl)phenyl]propanoic acid	35	CC(C(O)=O)C1=CC=C(C=C1)C(=O)C1=CC=CS1
+mestranol	Approved Name	DTXSID0020814	Mestranol	72-33-3	IMSSROKUHAOUJS-MJCUULBUSA-N	(17alpha)-3-Methoxy-19-norpregna-1,3,5(10)-trien-20-yn-17-ol	68	COC1=CC2=C(C=C1)C1CCC3(C)C(CCC3(O)C#C)C1CC2
+oxolamine	Approved Name	DTXSID5023403	Oxolamine	959-14-8	IDCHQQSVJAAUQQ-UHFFFAOYSA-N	N,N-Diethyl-2-(3-phenyl-1,2,4-oxadiazol-5-yl)ethan-1-amine	24	CCN(CC)CCC1=NC(=NO1)C1=CC=CC=C1
+tolmetin	Approved Name	DTXSID2043951	Tolmetin	26171-23-3	UPSPUYADGBWSHF-UHFFFAOYSA-N	[1-Methyl-5-(4-methylbenzoyl)-1H-pyrrol-2-yl]acetic acid	29	CN1C(CC(O)=O)=CC=C1C(=O)C1=CC=C(C)C=C1
+arcaine	Expert Validated Synonym	DTXSID80110030	1,1'-Butane-1,4-diyldiguanidine	544-05-8	HGMDNMBBCKDWTQ-UHFFFAOYSA-N	N,N'-Butane-1,4-diyldiguanidine	12	NC(=N)NCCCCNC(N)=N
+indoprofen	Approved Name	DTXSID5045831	Indoprofen	31842-01-0	RJMIEHBSYVWVIN-UHFFFAOYSA-N	2-[4-(1-Oxo-1,3-dihydro-2H-isoindol-2-yl)phenyl]propanoic acid	36	CC(C(O)=O)C1=CC=C(C=C1)N1CC2=CC=CC=C2C1=O
+chloropyramine	Integrated Source Name	DTXSID50207729	Chloropyramine [INN:BAN:DCF]	59-32-5	ICKFFNBDFNZJSX-UHFFFAOYSA-N	N~1~-[(4-Chlorophenyl)methyl]-N~2~,N~2~-dimethyl-N~1~-(pyridin-2-yl)ethane-1,2-diamine	20	CN(C)CCN(CC1=CC=C(Cl)C=C1)C1=CC=CC=N1
+(+/-)-catechin	Synonym	DTXSID3022322	Cianidanol	154-23-4	PFTAWBLQPZVEMU-DZGCQCFKSA-N	(2R,3S)-2-(3,4-Dihydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-3,5,7-triol	42	OC1CC2=C(OC1C1=CC(O)=C(O)C=C1)C=C(O)C=C2O
+propantheline bromide	Approved Name	DTXSID2023519	Propantheline bromide	50-34-0	XLBIBBZXLMYSFF-UHFFFAOYSA-M	N-Methyl-N-(propan-2-yl)-N-{2-[(9H-xanthene-9-carbonyl)oxy]ethyl}propan-2-aminium bromide	43	CC(C)[N+](C)(CCOC(=O)C1C2=CC=CC=C2OC2=C1C=CC=C2)C(C)C
+carbenoxolone	Approved Name	DTXSID4022733	Carbenoxolone	5697-56-3	OBZHEBDUNPOCJG-WBXJDKIVSA-N	(3beta)-3-[(3-Carboxypropanoyl)oxy]-11-oxoolean-12-en-30-oic acid	28	CC1(C)C(CCC2(C)C1CCC1(C)C2C(=O)C=C2C3CC(C)(CCC3(C)CCC12C)C(O)=O)OC(=O)CCC(O)=O
+levobunolol	Approved Name	DTXSID1043833	Levobunolol	47141-42-4	IXHBTMCLRNMKHZ-LBPRGKRZSA-N	5-[(2S)-3-(tert-Butylamino)-2-hydroxypropoxy]-3,4-dihydronaphthalen-1(2H)-one	21	CC(C)(C)NCC(O)COC1=CC=CC2=C1CCCC2=O
+Prestwick-857	NO_MATCH	-	-	-	-	-	-	-
+scopolamine	Approved Name	DTXSID6023573	Scopolamine	51-34-3	STECJAGHUSJQJN-FWXGHANASA-N	(1R,2R,4S,5S,7s)-9-Methyl-3-oxa-9-azatricyclo[3.3.1.0~2,4~]nonan-7-yl (2S)-3-hydroxy-2-phenylpropanoate	39	[H]C12CC(CC([H])(C3OC13)N2C)OC(=O)C(CO)C1=CC=CC=C1
+paromomycin	Approved Name	DTXSID8023424	Paromomycin	7542-37-2	UOZODPSAJZTQNH-LSWIJEOBSA-N	(1R,2R,3S,4R,6S)-4,6-Diamino-2-{[3-O-(2,6-diamino-2,6-dideoxy-beta-L-idopyranosyl)-beta-D-ribofuranosyl]oxy}-3-hydroxycyclohexyl 2-amino-2-deoxy-alpha-D-glucopyranoside	32	NCC1OC(OC2C(CO)OC(OC3C(O)C(N)CC(N)C3OC3OC(CO)C(O)C(O)C3N)C2O)C(N)C(O)C1O
+nadolol	Approved Name	DTXSID3023342	Nadolol	42200-33-9	VWPOSFSPZNDTMJ-UCWKZMIHSA-N	(2R,3S)-5-[3-(tert-Butylamino)-2-hydroxypropoxy]-1,2,3,4-tetrahydronaphthalene-2,3-diol	50	CC(C)(C)NCC(O)COC1=CC=CC2=C1CC(O)C(O)C2
+furazolidone	Approved Name	DTXSID4041997	Furazolidone	67-45-8	PLHJDBGFXBMTGZ-WEVVVXLNSA-N	3-{(E)-[(5-Nitrofuran-2-yl)methylidene]amino}-1,3-oxazolidin-2-one	58	[O-][N+](=O)C1=CC=C(O1)\C=N\N1CCOC1=O
+iocetamic acid	Approved Name	DTXSID2023149	Iocetamic acid	16034-77-8	GSVQIUGOUKJHRC-UHFFFAOYSA-N	3-[Acetyl(3-amino-2,4,6-triiodophenyl)amino]-2-methylpropanoic acid	34	CC(CN(C(C)=O)C1=C(I)C=C(I)C(N)=C1I)C(O)=O
+iodixanol	Approved Name	DTXSID2045523	Iodixanol	92339-11-2	NBQNWMBBSKPBAY-UHFFFAOYSA-N	5,5'-[(2-Hydroxypropane-1,3-diyl)bis(acetylazanediyl)]bis[N~1~,N~3~-bis(2,3-dihydroxypropyl)-2,4,6-triiodobenzene-1,3-dicarboxamide]	29	CC(=O)N(CC(O)CN(C(C)=O)C1=C(I)C(C(=O)NCC(O)CO)=C(I)C(C(=O)NCC(O)CO)=C1I)C1=C(I)C(C(=O)NCC(O)CO)=C(I)C(C(=O)NCC(O)CO)=C1I
+doxazosin	Approved Name	DTXSID7022964	Doxazosin	74191-85-8	RUZYUOTYCVRMRZ-UHFFFAOYSA-N	[4-(4-Amino-6,7-dimethoxyquinazolin-2-yl)piperazin-1-yl](2,3-dihydro-1,4-benzodioxin-2-yl)methanone	33	COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)C1COC2=C(O1)C=CC=C2
+lasalocid	Approved Name	DTXSID9048485	Lasalocid	25999-31-9	BBMULGJBVDDDNI-OWKLGTHSSA-N	(1S,9S)-1,5:6,9-Dianhydro-9-[(3R,5S,6S,7R)-9-(2-carboxy-3-hydroxy-4-methylphenyl)-6-hydroxy-5,7-dimethyl-4-oxononan-3-yl]-3,4,7,8-tetradeoxy-6-ethyl-2-C-ethyl-1,8-dimethyl-D-galacto-nonitol	23	CCC(C1OC(CC)(CC1C)C1CCC(O)(CC)C(C)O1)C(=O)C(C)C(O)C(C)CCC1=CC=C(C)C(O)=C1C(O)=O
+diclofenamide	Synonym from Valid Source	DTXSID1022922	Dichlorphenamide	120-97-8	GJQPMPFPNINLKP-UHFFFAOYSA-N	4,5-Dichlorobenzene-1,3-disulfonamide	42	NS(=O)(=O)C1=CC(Cl)=C(Cl)C(=C1)S(N)(=O)=O
+ioversol	Approved Name	DTXSID2045521	Ioversol	87771-40-2	AMDBBAQNWSUWGN-UHFFFAOYSA-N	N~1~,N~3~-Bis(2,3-dihydroxypropyl)-5-[(hydroxyacetyl)(2-hydroxyethyl)amino]-2,4,6-triiodobenzene-1,3-dicarboxamide	27	OCCN(C(=O)CO)C1=C(I)C(C(=O)NCC(O)CO)=C(I)C(C(=O)NCC(O)CO)=C1I
+paracetamol	Expert Validated Synonym	DTXSID2020006	Acetaminophen	103-90-2	RZVAJINKPMORJF-UHFFFAOYSA-N	N-(4-Hydroxyphenyl)acetamide	112	CC(=O)NC1=CC=C(O)C=C1
+latamoxef	Synonym from Valid Source	DTXSID9023338	Moxalactam	64952-97-2	JWCSIUVGFCSJCK-CAVRMKNVSA-N	(6R,7R)-7-[2-Carboxy(4-hydroxyphenyl)acetamido]-7-methoxy-3-{[(1-methyl-1H-tetrazol-5-yl)sulfanyl]methyl}-8-oxo-5-oxa-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid	22	COC1(NC(=O)C(C(O)=O)C2=CC=C(O)C=C2)C2OCC(CSC3=NN=NN3C)=C(N2C1=O)C(O)=O
+dimethadione	Approved Name	DTXSID2020478	Dimethadione	695-53-4	JYJFNDQBESEHJQ-UHFFFAOYSA-N	5,5-Dimethyl-1,3-oxazolidine-2,4-dione	37	CC1(C)OC(=O)NC1=O
+rolitetracycline	Approved Name	DTXSID7023568	Rolitetracycline	751-97-3	HMEYVGGHISAPJR-VQCPGFMQSA-N	(4S,4aS,6S,12aS)-4-(Dimethylamino)-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-N-[(pyrrolidin-1-yl)methyl]-1,4,4a,5,5a,6,11,12a-octahydrotetracene-2-carboxamide	29	CN(C)C1C2CC3C(=C(O)C2(O)C(=O)C(C(=O)NCN2CCCC2)=C1O)C(=O)C1=C(C=CC=C1O)C3(C)O
+ganciclovir	Approved Name	DTXSID8041032	Ganciclovir	82410-32-0	IRSCQMHQWWYFCW-UHFFFAOYSA-N	2-Amino-9-{[(1,3-dihydroxypropan-2-yl)oxy]methyl}-1,9-dihydro-6H-purin-6-one	46	NC1=NC2=C(N=CN2COC(CO)CO)C(=O)N1
+fluvastatin	Approved Name	DTXSID2020636	Fluvastatin	93957-54-1	FJLGEFLZQAZZCD-MCBHFWOFSA-N	-	45	CC(C)n1c(\C=C\C(O)CC(O)CC(O)=O)c(-c2ccc(F)cc2)c2ccccc12
+capsaicin	Approved Name	DTXSID9020241	Capsaicin	404-86-4	YKPUWZUDDOIDPM-SOFGYWHQSA-N	(6E)-N-[(4-Hydroxy-3-methoxyphenyl)methyl]-8-methylnon-6-enamide	65	COC1=C(O)C=CC(CNC(=O)CCCC\C=C/C(C)C)=C1
+phthalylsulfathiazole	Approved Name	DTXSID8023470	Phthalylsulfathiazole	85-73-4	PBMSWVPMRUJMPE-UHFFFAOYSA-N	2-({4-[(1,3-Thiazol-2-yl)sulfamoyl]phenyl}carbamoyl)benzoic acid	45	OC(=O)C1=C(C=CC=C1)C(=O)NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CS1
+sulconazole	Approved Name	DTXSID8044129	Sulconazole	61318-90-9	AFNXATANNDIXLG-UHFFFAOYSA-N	1-[2-{[(4-Chlorophenyl)methyl]sulfanyl}-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole	20	ClC1=CC=C(CSC(CN2C=CN=C2)C2=CC=C(Cl)C=C2Cl)C=C1
+aminophylline	Synonym	DTXSID5021336	Theophylline	58-55-9	ZFXYFBGIUFBOJW-UHFFFAOYSA-N	1,3-Dimethyl-3,7-dihydro-1H-purine-2,6-dione	94	CN1C2=C(NC=N2)C(=O)N(C)C1=O
+Prestwick-860	NO_MATCH	-	-	-	-	-	-	-
+ethaverine	Approved Name	DTXSID3023009	Ethaverine	486-47-5	ZOWYFYXTIWQBEP-UHFFFAOYSA-N	1-[(3,4-Diethoxyphenyl)methyl]-6,7-diethoxyisoquinoline	23	CCOC1=C(OCC)C=C(CC2=NC=CC3=CC(OCC)=C(OCC)C=C23)C=C1
+luteolin	Approved Name	DTXSID4074988	Luteolin	491-70-3	IQPNAANSBPBGFQ-UHFFFAOYSA-N	2-(3,4-Dihydroxyphenyl)-5,7-dihydroxy-4H-1-benzopyran-4-one	30	OC1=CC(O)=C2C(=O)C=C(OC2=C1)C1=CC(O)=C(O)C=C1
+equilin	Approved Name	DTXSID7047433	Equilin	474-86-2	WKRLQDKEXYKHJB-HFTRVMKXSA-N	3-Hydroxyestra-1,3,5(10),7-tetraen-17-one	52	CC12CCC3C(=CCC4=C3C=CC(O)=C4)C1CCC2=O
+carbachol	Approved Name	DTXSID9022730	Carbachol	51-83-2	AIXAANGOTKPUOY-UHFFFAOYSA-N	2-(Carbamoyloxy)-N,N,N-trimethylethan-1-aminium chloride	41	C[N+](C)(C)CCOC(N)=O
+profenamine	Synonym	DTXSID2023018	Ethopropazine	522-00-9	CDOZDBSBBXSXLB-UHFFFAOYSA-N	N,N-Diethyl-1-(10H-phenothiazin-10-yl)propan-2-amine	27	CCN(CC)C(C)CN1C2=CC=CC=C2SC2=C1C=CC=C2
+nicotinic acid	Approved Name	DTXSID1020932	Nicotinic acid	59-67-6	PVNIIMVLHYAWGP-UHFFFAOYSA-N	Pyridine-3-carboxylic acid	85	OC(=O)C1=CC=CN=C1
+3-acetylcoumarin	Approved Name	DTXSID10192627	3-Acetylcoumarin	3949-36-8	CSPIFKKOBWYOEX-UHFFFAOYSA-N	3-Acetyl-2H-1-benzopyran-2-one	17	CC(=O)C1=CC2=CC=CC=C2OC1=O
+hymecromone	Synonym from Valid Source	DTXSID8025670	4-Methylumbelliferone	90-33-5	HSHNITRMYYLLCV-UHFFFAOYSA-N	7-Hydroxy-4-methyl-2H-1-benzopyran-2-one	58	CC1=CC(=O)OC2=C1C=CC(O)=C2
+propofol	Approved Name	DTXSID6023523	Propofol	2078-54-8	OLBCVFGFOZPWHH-UHFFFAOYSA-N	2,6-Di(propan-2-yl)phenol	75	CC(C)C1=CC=CC(C(C)C)=C1O
+(+)-isoprenaline	NO_MATCH	-	-	-	-	-	-	-
+nizatidine	Approved Name	DTXSID5023376	Nizatidine	76963-41-2	SGXXNSQHWDMGGP-UHFFFAOYSA-N	N~1~-{2-[({2-[(Dimethylamino)methyl]-1,3-thiazol-4-yl}methyl)sulfanyl]ethyl}-N'~1~-methyl-2-nitroethene-1,1-diamine	45	CN\C(NCCSCC1=CSC(CN(C)C)=N1)=C/[N+]([O-])=O
+bemegride	Approved Name	DTXSID0045250	Bemegride	64-65-3	ORRZGUBHBVWWOP-UHFFFAOYSA-N	4-Ethyl-4-methylpiperidine-2,6-dione	30	CCC1(C)CC(=O)NC(=O)C1
+crotamiton	Approved Name	DTXSID6040664	Crotamiton	483-63-6	DNTGGZPQPQTDQF-UHFFFAOYSA-N	N-Ethyl-N-(2-methylphenyl)but-2-enamide	48	CCN(C(=O)\C=C\C)c1ccccc1C
+pentetic acid	Approved Name	DTXSID2023434	Pentetic acid	67-43-6	QPCDCPDFJACHGM-UHFFFAOYSA-N	N,N-Bis{2-[bis(carboxymethyl)amino]ethyl}glycine	54	OC(=O)CN(CCN(CC(O)=O)CC(O)=O)CCN(CC(O)=O)CC(O)=O
+esculin	Approved Name	DTXSID7045318	Esculin	531-75-9	XHCADAYNFIFUHF-TVKJYDDYSA-N	7-Hydroxy-2-oxo-2H-1-benzopyran-6-yl beta-D-glucopyranoside	36	OCC1OC(OC2=CC3=C(OC(=O)C=C3)C=C2O)C(O)C(O)C1O
+caffeic acid	Approved Name	DTXSID5020231	Caffeic acid	331-39-5	QAIPRVGONGVQAS-UHFFFAOYSA-N	3-(3,4-Dihydroxyphenyl)prop-2-enoic acid	41	OC(=O)\C=C\c1ccc(O)c(O)c1
+monobenzone	Synonym from Valid Source	DTXSID2020717	4-(Benzyloxyl)phenol	103-16-2	VYQNWZOUAUKGHI-UHFFFAOYSA-N	4-(Benzyloxy)phenol	45	OC1=CC=C(OCC2=CC=CC=C2)C=C1
+thioperamide	Approved Name	DTXSID50147555	Thioperamide	106243-16-7	QKDDJDBFONZGBW-UHFFFAOYSA-N	N-Cyclohexyl-4-(1H-imidazol-5-yl)piperidine-1-carbothioamide	18	S=C(NC1CCCCC1)N1CCC(CC1)C1=CN=CN1
+bretylium tosilate	NO_MATCH	-	-	-	-	-	-	-
+eticlopride	Approved Name	DTXSID9048435	Eticlopride	84226-12-0	AADCDMQTJNYOSS-LBPRGKRZSA-N	3-Chloro-5-ethyl-N-{[(2S)-1-ethylpyrrolidin-2-yl]methyl}-6-hydroxy-2-methoxybenzamide	13	CCN1CCCC1CNC(=O)C1=C(OC)C(Cl)=CC(CC)=C1O
+propranolol	Approved Name	DTXSID6023525	Propranolol	525-66-6	AQHHHDLHHXJYJD-UHFFFAOYSA-N	1-[(Naphthalen-1-yl)oxy]-3-[(propan-2-yl)amino]propan-2-ol	43	CC(C)NCC(O)COC1=C2C=CC=CC2=CC=C1
+diloxanide	Approved Name	DTXSID0022939	Diloxanide	579-38-4	GZZZSOOGQLOEOB-UHFFFAOYSA-N	2,2-Dichloro-N-(4-hydroxyphenyl)-N-methylacetamide	20	CN(C(=O)C(Cl)Cl)C1=CC=C(O)C=C1
+felbinac	Approved Name	DTXSID0045389	Felbinac	5728-52-9	QRZAKQDHEVVFRX-UHFFFAOYSA-N	([1,1'-Biphenyl]-4-yl)acetic acid	36	OC(=O)CC1=CC=C(C=C1)C1=CC=CC=C1
+digoxigenin	Approved Name	DTXSID6051778	Digoxigenin	1672-46-4	SHIBSTMRCDJXLN-KCZCNTNESA-N	(3beta,5beta,12beta)-3,12,14-Trihydroxycard-20(22)-enolide	38	CC12C(CCC1(O)C1CCC3CC(O)CCC3(C)C1CC2O)C1=CC(=O)OC1
+xamoterol	Approved Name	DTXSID8045222	Xamoterol	81801-12-9	DXPOSRCHIDYWHW-UHFFFAOYSA-N	N-(2-{[2-Hydroxy-3-(4-hydroxyphenoxy)propyl]amino}ethyl)morpholine-4-carboxamide	22	OC(CNCCNC(=O)N1CCOCC1)COC1=CC=C(O)C=C1
+primidone	Approved Name	DTXSID7023510	Primidone	125-33-7	DQMZLTXERSFNPB-UHFFFAOYSA-N	5-Ethyl-5-phenyl-1,3-diazinane-4,6-dione	72	CCC1(C(=O)NCNC1=O)C1=CC=CC=C1
+pralidoxime	Approved Name	DTXSID1044144	Pralidoxime	6735-59-7	JBKPUQTUERUYQE-UHFFFAOYSA-O	2-[(E)-(Hydroxyimino)methyl]-1-methylpyridin-1-ium	20	C[N+]1=CC=CC=C1CN=O
+2-aminobenzenesulfonamide	Approved Name	DTXSID00186717	2-Aminobenzenesulfonamide	3306-62-5	YAZSBRQTAHVVGE-UHFFFAOYSA-N	2-Aminobenzene-1-sulfonamide	15	NC1=CC=CC=C1S(N)(=O)=O
+meglumine	Approved Name	DTXSID0023244	Meglumine	6284-40-8	MBBZMMPHUWSWHV-BDVNFPICSA-N	1-Deoxy-1-(methylamino)-D-glucitol	46	CNCC(O)C(O)C(O)C(O)CO
+butyl hydroxybenzoate	Integrated Source Name	DTXSID3020209	Butylparaben	94-26-8	QFOHBWFCKVYLES-UHFFFAOYSA-N	Butyl 4-hydroxybenzoate	93	CCCCOC(=O)C1=CC=C(O)C=C1
+(-)-atenolol	Synonym	DTXSID10239405	Esatenolol	93379-54-5	METKIMKYRPQLGS-LBPRGKRZSA-N	2-(4-{(2S)-2-Hydroxy-3-[(propan-2-yl)amino]propoxy}phenyl)acetamide	14	CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1
+metyrapone	Approved Name	DTXSID1023314	Metyrapone	54-36-4	FJLBFSROUSIWMA-UHFFFAOYSA-N	2-Methyl-1,2-di(pyridin-3-yl)propan-1-one	52	CC(C)(C(=O)C1=CN=CC=C1)C1=CN=CC=C1
+estrone	Approved Name	DTXSID4022367	Estrone	53-16-7	DNXHEGUUPJUMQT-CBZIJGRNSA-N	3-Hydroxyestra-1,3,5(10)-trien-17-one	81	CC12CCC3C(CCC4=C3C=CC(O)=C4)C1CCC2=O
+flucytosine	Approved Name	DTXSID3023059	Flucytosine	2022-85-7	XRECTZIEBJDKEO-UHFFFAOYSA-N	4-Amino-5-fluoropyrimidin-2(1H)-one	47	NC1=NC(=O)NC=C1F
+tyloxapol	Approved Name	DTXSID30179950	Tyloxapol	25301-02-4	MDYZKJNTKZIUSK-UHFFFAOYSA-N	-	14	-
+rolipram	Approved Name	DTXSID3044124	Rolipram	61413-54-5	HJORMJIFDVBMOB-UHFFFAOYSA-N	4-[3-(Cyclopentyloxy)-4-methoxyphenyl]pyrrolidin-2-one	28	COC1=CC=C(C=C1OC1CCCC1)C1CNC(=O)C1
+cantharidin	Approved Name	DTXSID7041752	Cantharidin	56-25-7	DHZBEENLJMYSHQ-OBDNUKKESA-N	(3aR,7aS)-3a,7a-Dimethylhexahydro-4,7-epoxy-2-benzofuran-1,3-dione	36	[H]C12CCC([H])(O1)C1(C)C(=O)OC(=O)C21C
+aminohippuric acid	Approved Name	DTXSID7022590	Aminohippuric acid	61-78-9	HSMNQINEKMPTIC-UHFFFAOYSA-N	N-(4-Aminobenzoyl)glycine	44	NC1=CC=C(C=C1)C(=O)NCC(O)=O
+(-)-MK-801	NO_MATCH	-	-	-	-	-	-	-
+urapidil	Approved Name	DTXSID9021425	Urapidil	34661-75-1	ICMGLRUYEQNHPF-UHFFFAOYSA-N	6-({3-[4-(2-Methoxyphenyl)piperazin-1-yl]propyl}amino)-1,3-dimethylpyrimidine-2,4(1H,3H)-dione	36	COC1=C(C=CC=C1)N1CCN(CCCNC2=CC(=O)N(C)C(=O)N2C)CC1
+tonzonium bromide	NO_MATCH	-	-	-	-	-	-	-
+terguride	Approved Name	DTXSID3045809	Terguride	37686-84-3	JOAHPSVPXZTVEP-YXJHDRRASA-N	N,N-Diethyl-N'-[(8alpha)-6-methylergolin-8-yl]urea	26	CCN(CC)C(=O)NC1CC2C(CC3=CNC4=CC=CC2=C34)N(C)C1
+lorglumide	Approved Name	DTXSID2046961	Lorglumide	97964-56-2	IEKOTSCYBBDIJC-UHFFFAOYSA-N	N~2~-(3,4-Dichlorobenzoyl)-N,N-dipentyl-alpha-glutamine	14	CCCCCN(CCCCC)C(=O)C(CCC(O)=O)NC(=O)C1=CC(Cl)=C(Cl)C=C1
+florfenicol	Approved Name	DTXSID9045500	Florfenicol	73231-34-2	AYIRNRDRBQJXIF-NXEZZACHSA-N	2,2-Dichloro-N-{(1R,2S)-3-fluoro-1-hydroxy-1-[4-(methanesulfonyl)phenyl]propan-2-yl}acetamide	35	CS(=O)(=O)C1=CC=C(C=C1)C(O)C(CF)NC(=O)C(Cl)Cl
+N-acetyl-L-leucine	Systematic Name	DTXSID6045870	Acetyl-L-leucine	1188-21-2	WXNXCEHXYPACJF-ZETCQYMHSA-N	N-Acetyl-L-leucine	26	CC(C)CC(NC(C)=O)C(O)=O
+clioquinol	Approved Name	DTXSID7022837	Clioquinol	130-26-7	QCDFBFJGMNKBDO-UHFFFAOYSA-N	5-Chloro-7-iodoquinolin-8-ol	54	OC1=C2N=CC=CC2=C(Cl)C=C1I
+fluspirilene	Approved Name	DTXSID7045152	Fluspirilene	1841-19-6	QOYHHIBFXOOADH-UHFFFAOYSA-N	8-[4,4-Bis(4-fluorophenyl)butyl]-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one	32	FC1=CC=C(C=C1)C(CCCN1CCC2(CC1)N(CNC2=O)C1=CC=CC=C1)C1=CC=C(F)C=C1
+idazoxan	Approved Name	DTXSID6045161	Idazoxan	79944-58-4	HPMRFMKYPGXPEP-UHFFFAOYSA-N	2-(2,3-Dihydro-1,4-benzodioxin-2-yl)-4,5-dihydro-1H-imidazole	25	C1CN=C(N1)C1COC2=C(O1)C=CC=C2
+bephenium hydroxynaphthoate	Approved Name	DTXSID8022662	Bephenium hydroxynaphthoate	3818-50-6	PMPQCPQAHTXCDK-UHFFFAOYSA-M	N-Benzyl-N,N-dimethyl-2-phenoxyethan-1-aminium 3-hydroxynaphthalene-2-carboxylate	17	-
+megestrol	NO_MATCH	-	-	-	-	-	-	-
+oxybenzone	Synonym from Valid Source	DTXSID3022405	2-Hydroxy-4-methoxybenzophenone	131-57-7	DXGLGDHPHMLXJC-UHFFFAOYSA-N	(2-Hydroxy-4-methoxyphenyl)(phenyl)methanone	97	COC1=CC=C(C(=O)C2=CC=CC=C2)C(O)=C1
+altretamine	Expert Validated Synonym	DTXSID4022579	Hexamethylmelamine	645-05-6	UUVWYPNAQBNQJQ-UHFFFAOYSA-N	N~2~,N~2~,N~4~,N~4~,N~6~,N~6~-Hexamethyl-1,3,5-triazine-2,4,6-triamine	51	CN(C)C1=NC(=NC(=N1)N(C)C)N(C)C
+pipemidic acid	Approved Name	DTXSID3023479	Pipemidic acid	51940-44-4	JOHZPMXAZQZXHR-UHFFFAOYSA-N	8-Ethyl-5-oxo-2-(piperazin-1-yl)-5,8-dihydropyrido[2,3-d]pyrimidine-6-carboxylic acid	46	CCN1C=C(C(O)=O)C(=O)C2=C1N=C(N=C2)N1CCNCC1
+dexibuprofen	Approved Name	DTXSID9048724	Dexibuprofen	51146-56-6	HEFNNWSXXWATRW-JTQLQIEISA-N	(2S)-2-[4-(2-Methylpropyl)phenyl]propanoic acid	28	CC(C)CC1=CC=C(C=C1)C(C)C(O)=O
+flurbiprofen	Approved Name	DTXSID0037231	Flurbiprofen	5104-49-4	SYTBZMRGLBWNTM-UHFFFAOYSA-N	2-(2-Fluoro[1,1'-biphenyl]-4-yl)propanoic acid	52	CC(C(O)=O)C1=CC=C(C(F)=C1)C1=CC=CC=C1
+prasterone	Expert Validated Synonym	DTXSID4020379	Dehydroepiandrosterone	53-43-0	FMGSKLZLMKYGDP-USOAJAOKSA-N	(3beta)-3-Hydroxyandrost-5-en-17-one	63	CC12CCC3C(CC=C4CC(O)CCC34C)C1CCC2=O
+desoxycortone	Synonym from Valid Source	DTXSID0045254	21-Hydroxyprogesterone	64-85-7	ZESRJSPZRDMNHY-YFWFAHHUSA-N	21-Hydroxypregn-4-ene-3,20-dione	42	CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2C(=O)CO
+promethazine	Approved Name	DTXSID7023518	Promethazine	60-87-7	PWWVAXIEGOYWEE-UHFFFAOYSA-N	N,N-Dimethyl-1-(10H-phenothiazin-10-yl)propan-2-amine	50	CC(CN1C2=C(SC3=C1C=CC=C3)C=CC=C2)N(C)C
+dioxybenzone	Synonym	DTXSID3022403	2,2'-Dihydroxy-4-methoxybenzophenone	131-53-3	MEZZCSHVIGVWFI-UHFFFAOYSA-N	(2-Hydroxy-4-methoxyphenyl)(2-hydroxyphenyl)methanone	49	COC1=CC=C(C(=O)C2=C(O)C=CC=C2)C(O)=C1
+nilutamide	Approved Name	DTXSID3034165	Nilutamide	63612-50-0	XWXYUMMDTVBTOU-UHFFFAOYSA-N	5,5-Dimethyl-3-[4-nitro-3-(trifluoromethyl)phenyl]imidazolidine-2,4-dione	53	CC1(C)NC(=O)N(C1=O)C1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F
+nimodipine	Approved Name	DTXSID5023370	Nimodipine	66085-59-4	UIAGMCDKSXEBJQ-UHFFFAOYSA-N	2-Methoxyethyl propan-2-yl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate	47	COCCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC(C)C
+chrysin	Approved Name	DTXSID1022396	Chrysin	480-40-0	RTIXKCRFFJGDFG-UHFFFAOYSA-N	5,7-Dihydroxy-2-phenyl-4H-1-benzopyran-4-one	52	OC1=CC2=C(C(O)=C1)C(=O)C=C(O2)C1=CC=CC=C1
+nabumetone	Approved Name	DTXSID4045472	Nabumetone	42924-53-8	BLXXJMDCKKHMKV-UHFFFAOYSA-N	4-(6-Methoxynaphthalen-2-yl)butan-2-one	40	COC1=CC2=CC=C(CCC(C)=O)C=C2C=C1
+etynodiol	NO_MATCH	-	-	-	-	-	-	-
+adrenosterone	NO_MATCH	-	-	-	-	-	-	-
+ursodeoxycholic acid	Synonym from Valid Source	DTXSID6023731	Ursodiol	128-13-2	RUDATBOHQWOJDD-UZVSRGJWSA-N	(3alpha,5beta,7beta)-3,7-Dihydroxycholan-24-oic acid	34	CC(CCC(O)=O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C
+bacitracin	Approved Name	DTXSID8045355	Bacitracin	1405-87-4	-	-	28	-
+ketorolac	Approved Name	DTXSID8023189	Ketorolac	74103-06-3	OZWKMVRBQXNZKK-UHFFFAOYSA-N	5-Benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid	35	OC(=O)C1CCN2C1=CC=C2C(=O)C1=CC=CC=C1
+adipiodone	Synonym from Valid Source	DTXSID6023153	Iodipamide	606-17-7	FFINMCNLQNTKLU-UHFFFAOYSA-N	3,3'-[(1,6-Dioxohexane-1,6-diyl)diazanediyl]bis(2,4,6-triiodobenzoic acid)	30	OC(=O)C1=C(I)C(NC(=O)CCCCC(=O)NC2=C(I)C(C(O)=O)=C(I)C=C2I)=C(I)C=C1I
+octopamine	Approved Name	DTXSID7043873	Octopamine	104-14-3	QHGUCRYDKWKLMG-UHFFFAOYSA-N	4-(2-Amino-1-hydroxyethyl)phenol	30	NCC(O)C1=CC=C(O)C=C1
+proxymetacaine	Approved Name	DTXSID30198146	Proxymetacaine	499-67-2	KCLANYCVBBTKTO-UHFFFAOYSA-N	2-(Diethylamino)ethyl 3-amino-4-propoxybenzoate	22	CCCOC1=C(N)C=C(C=C1)C(=O)OCCN(CC)CC
+atropine methonitrate	NO_MATCH	-	-	-	-	-	-	-
+proxyphylline	Approved Name	DTXSID5023536	Proxyphylline	603-00-9	KYHQZNGJUGFTGR-UHFFFAOYSA-N	7-(2-Hydroxypropyl)-1,3-dimethyl-3,7-dihydro-1H-purine-2,6-dione	41	CC(O)CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+nisoxetine	Approved Name	DTXSID0045175	Nisoxetine	53179-07-0	ITJNARMNRKSWTA-UHFFFAOYSA-N	3-(2-Methoxyphenoxy)-N-methyl-3-phenylpropan-1-amine	22	CNCCC(OC1=CC=CC=C1OC)C1=CC=CC=C1
+protriptyline	Approved Name	DTXSID0023535	Protriptyline	438-60-8	BWPIARFWQZKAIA-UHFFFAOYSA-N	3-(5H-Dibenzo[a,d][7]annulen-5-yl)-N-methylpropan-1-amine	33	CNCCCC1C2=C(C=CC=C2)C=CC2=C1C=CC=C2
+esculetin	Approved Name	DTXSID3075383	Esculetin	305-01-1	ILEDWLMCKZNDJK-UHFFFAOYSA-N	6,7-Dihydroxy-2H-1-benzopyran-2-one	31	OC1=C(O)C=C2C=CC(=O)OC2=C1
+Prestwick-920	NO_MATCH	-	-	-	-	-	-	-
+nipecotic acid	NO_MATCH	-	-	-	-	-	-	-
+denatonium benzoate	Approved Name	DTXSID8034376	Denatonium benzoate	3734-33-6	VWTINHYPRWEBQY-UHFFFAOYSA-N	N-Benzyl-2-(2,6-dimethylanilino)-N,N-diethyl-2-oxoethan-1-aminium benzoate	56	CC[N+](CC)(CC(=O)NC1=C(C)C=CC=C1C)CC1=CC=CC=C1
+aminocaproic acid	Synonym from Valid Source	DTXSID0020070	6-Aminocaproic acid	60-32-2	SLXKOJJOQWFEFD-UHFFFAOYSA-N	6-Aminohexanoic acid	47	NCCCCCC(O)=O
+remoxipride	Approved Name	DTXSID6045668	Remoxipride	80125-14-0	GUJRSXAPGDDABA-NSHDSACASA-N	3-Bromo-N-{[(2S)-1-ethylpyrrolidin-2-yl]methyl}-2,6-dimethoxybenzamide	24	CCN1CCCC1CNC(=O)C1=C(OC)C=CC(Br)=C1OC
+Prestwick-981	NO_MATCH	-	-	-	-	-	-	-
+gliquidone	Approved Name	DTXSID4023096	Gliquidone	33342-05-1	LLJFMFZYVVLQKT-UHFFFAOYSA-N	N-(Cyclohexylcarbamoyl)-4-[2-(7-methoxy-4,4-dimethyl-1,3-dioxo-3,4-dihydroisoquinolin-2(1H)-yl)ethyl]benzene-1-sulfonamide	34	COC1=CC=C2C(=C1)C(=O)N(CCC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1)C(=O)C2(C)C
+alfadolone	NO_MATCH	-	-	-	-	-	-	-
+isradipine	Approved Name	DTXSID4023179	Isradipine	75695-93-1	HMJIYCCIJYRONP-UHFFFAOYSA-N	Methyl propan-2-yl 4-(2,1,3-benzoxadiazol-4-yl)-2,6-dimethyl-1,4-dihydropyridine-3,5-dicarboxylate	36	COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC2=NON=C12)C(=O)OC(C)C
+flucloxacillin	Synonym from Valid Source	DTXSID8023056	Floxacillin	5250-39-5	UIOFUWFRIANQPC-JKIFEVAISA-N	(2S,5R,6R)-6-{[3-(2-Chloro-6-fluorophenyl)-5-methyl-1,2-oxazole-4-carbonyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	27	CC1=C(C(=O)NC2C3SC(C)(C)C(N3C2=O)C(O)=O)C(=NO1)C1=C(Cl)C=CC=C1F
+halofantrine	Approved Name	DTXSID0023119	Halofantrine	69756-53-2	FOHHNHSLJDZUGQ-UHFFFAOYSA-N	3-(Dibutylamino)-1-[1,3-dichloro-6-(trifluoromethyl)phenanthren-9-yl]propan-1-ol	21	CCCCN(CCCC)CCC(O)C1=CC2=C(C=C(Cl)C=C2Cl)C2=C1C=CC(=C2)C(F)(F)F
+scopoletin	Approved Name	DTXSID0075368	Scopoletin	92-61-5	RODXRVNMMDRFIK-UHFFFAOYSA-N	7-Hydroxy-6-methoxy-2H-1-benzopyran-2-one	30	COC1=C(O)C=C2OC(=O)C=CC2=C1
+rilmenidine	Approved Name	DTXSID3045194	Rilmenidine	54187-04-1	CQXADFVORZEARL-UHFFFAOYSA-N	N-(Dicyclopropylmethyl)-4,5-dihydro-1,3-oxazol-2-amine	28	C1CC1C(NC1=NCCO1)C1CC1
+Prestwick-972	NO_MATCH	-	-	-	-	-	-	-
+pizotifen	Synonym	DTXSID6023490	Pizotyline	15574-96-6	FIADGNVRKBPQEU-UHFFFAOYSA-N	4-(9,10-Dihydro-4H-benzo[4,5]cyclohepta[1,2-b]thiophen-4-ylidene)-1-methylpiperidine	34	CN1CCC(CC1)=C1C2=C(CCC3=CC=CC=C13)SC=C2
+alfaxalone	Synonym	DTXSID9022576	Alphaxalone	23930-19-0	DUHUCHOQIDJXAT-OLVMNOGESA-N	(3alpha,5alpha)-3-Hydroxypregnane-11,20-dione	32	CC(=O)C1CCC2C3CCC4CC(O)CCC4(C)C3C(=O)CC12C
+trapidil	Approved Name	DTXSID0045416	Trapidil	15421-84-8	GSNOZLZNQMLSKJ-UHFFFAOYSA-N	N,N-Diethyl-5-methyl[1,2,4]triazolo[1,5-a]pyrimidin-7-amine	31	CCN(CC)C1=CC(C)=NC2=NC=NN12
+articaine	Approved Name	DTXSID7048536	Articaine	23964-58-1	QTGIAADRBBLJGA-UHFFFAOYSA-N	Methyl 4-methyl-3-[(N-propylalanyl)amino]thiophene-2-carboxylate	19	CCCNC(C)C(=O)NC1=C(SC=C1C)C(=O)OC
+tiletamine	Approved Name	DTXSID5048552	Tiletamine	14176-49-9	QAXBVGVYDCAVLV-UHFFFAOYSA-N	2-(Ethylamino)-2-(thiophen-2-yl)cyclohexan-1-one	17	CCNC1(CCCCC1=O)C1=CC=CS1
+enilconazole	Synonym from Valid Source	DTXSID8024151	Imazalil	35554-44-0	PZBPKYOVPCNPJY-UHFFFAOYSA-N	1-{2-(2,4-Dichlorophenyl)-2-[(prop-2-en-1-yl)oxy]ethyl}-1H-imidazole	92	ClC1=CC(Cl)=C(C=C1)C(CN1C=CN=C1)OCC=C
+pirlindole	Approved Name	DTXSID8048230	Pirlindole	60762-57-4	IWVRVEIKCBFZNF-UHFFFAOYSA-N	8-Methyl-2,3,3a,4,5,6-hexahydro-1H-pyrazino[3,2,1-jk]carbazole	15	CC1=CC=C2N3CCNC4CCCC(=C34)C2=C1
+Prestwick-983	NO_MATCH	-	-	-	-	-	-	-
+azapropazone	Approved Name	DTXSID6045408	Azapropazone	13539-59-8	MPHPHYZQRGLTBO-UHFFFAOYSA-N	5-(Dimethylamino)-9-methyl-2-propyl-1H-pyrazolo[1,2-a][1,2,4]benzotriazine-1,3(2H)-dione	33	CCCC1C(=O)N2N(C1=O)C1=CC(C)=CC=C1N=C2N(C)C
+deptropine	Approved Name	DTXSID5048556	Deptropine	604-51-3	ZWPODSUQWXAZNC-PMOLBWCYSA-N	(1R,3r,5S)-3-[(10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-yl)oxy]-8-methyl-8-azabicyclo[3.2.1]octane	16	[H]C12CCC([H])(CC(C1)OC1C3=C(CCC4=C1C=CC=C4)C=CC=C3)N2C
+ribavirin	Approved Name	DTXSID8023557	Ribavirin	36791-04-5	IWUCXVSUMQZMFG-AFCXAGJDSA-N	1-beta-D-Ribofuranosyl-1H-1,2,4-triazole-3-carboxamide	56	NC(=O)C1=NN(C=N1)C1OC(CO)C(O)C1O
+isometheptene	Approved Name	DTXSID9023172	Isometheptene	503-01-5	XVQUOJBERHHONY-UHFFFAOYSA-N	N,6-Dimethylhept-5-en-2-amine	30	CNC(C)CCC=C(C)C
+clofilium tosylate	Approved Name	DTXSID7045601	Clofilium tosylate	92953-10-1	MOQZYUUHIWPDQC-UHFFFAOYSA-M	N-[4-(4-Chlorophenyl)butyl]-N,N-diethylheptan-1-aminium 4-methylbenzene-1-sulfonate	19	CCCCCCC[N+](CC)(CC)CCCCC1=CC=C(Cl)C=C1
+quinidine	Approved Name	DTXSID4023549	Quinidine	56-54-2	LOUPRKONTZGTKE-LHHVKLHASA-N	(9S)-6'-Methoxycinchonan-9-ol	50	[H]C12CCN(CC1C=C)C(C2)C(O)c1ccnc2ccc(OC)cc12
+lidoflazine	Approved Name	DTXSID6045377	Lidoflazine	3416-26-0	ZBIAKUMOEKILTF-UHFFFAOYSA-N	2-{4-[4,4-Bis(4-fluorophenyl)butyl]piperazin-1-yl}-N-(2,6-dimethylphenyl)acetamide	33	CC1=CC=CC(C)=C1NC(=O)CN1CCN(CCCC(C2=CC=C(F)C=C2)C2=CC=C(F)C=C2)CC1
+mitoxantrone	Approved Name	DTXSID4046947	Mitoxantrone	65271-80-9	KKZJGLLVHKMTCM-UHFFFAOYSA-N	1,4-Dihydroxy-5,8-bis({2-[(2-hydroxyethyl)amino]ethyl}amino)anthracene-9,10-dione	29	OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C1=C(C(O)=CC=C1O)C2=O
+hydrocortisone	Approved Name	DTXSID7020714	Hydrocortisone	50-23-7	JYGXADMDTFJGBT-VWUMJDOOSA-N	(11beta)-11,17,21-Trihydroxypregn-4-ene-3,20-dione	61	CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C1CCC2(O)C(=O)CO
+doxorubicin	Approved Name	DTXSID8021480	Doxorubicin	23214-92-8	AOJJSUZBOXZQNB-TZSSRYMLSA-N	(1S,3S)-3,5,12-Trihydroxy-3-(hydroxyacetyl)-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranoside	42	COc1cccc2C(=O)c3c(O)c4CC(O)(CC(OC5CC(N)C(O)C(C)O5)c4c(O)c3C(=O)c12)C(=O)CO
+methoxsalen	Synonym from Valid Source	DTXSID8020830	8-Methoxypsoralen	298-81-7	QXKHYNVANLEOEG-UHFFFAOYSA-N	9-Methoxy-7H-furo[3,2-g][1]benzopyran-7-one	72	COC1=C2OC(=O)C=CC2=CC2=C1OC=C2
+azacitidine	Synonym from Valid Source	DTXSID9020116	5-Azacytidine	320-67-2	NMUSYJAQQFHJEW-KVTDHHQDSA-N	4-Amino-1-beta-D-ribofuranosyl-1,3,5-triazin-2(1H)-one	61	NC1=NC(=O)N(C=N1)C1OC(CO)C(O)C1O
+fluocinonide	Approved Name	DTXSID8045307	Fluocinonide	356-12-7	WJOHZNCJWYWUJD-IUGZLZTKSA-N	2-[(4aS,4bR,5S,6aS,6bS,9aR,10aS,10bS,12S)-4b,12-Difluoro-5-hydroxy-4a,6a,8,8-tetramethyl-2-oxo-2,4a,4b,5,6,6a,9a,10,10a,10b,11,12-dodecahydro-6bH,8H-naphtho[2',1':4,5]indeno[1,2-d][1,3]dioxol-6b-yl]-2-oxoethyl acetate	35	CC(=O)OCC(=O)C12OC(C)(C)OC1CC1C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C
+piperacillin	Approved Name	DTXSID2023482	Piperacillin	61477-96-1	IVBHGBMCVLDMKU-GXNBUGAJSA-N	(2S,5R,6R)-6-({(2R)-2-[(4-Ethyl-2,3-dioxopiperazine-1-carbonyl)amino]-2-phenylacetyl}amino)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	26	CCN1CCN(C(=O)NC(C(=O)NC2C3SC(C)(C)C(N3C2=O)C(O)=O)C2=CC=CC=C2)C(=O)C1=O
+cefamandole	Approved Name	DTXSID7022750	Cefamandole	34444-01-4	OLVCFLKTBJRLHI-AXAPSJFSSA-N	(6R,7R)-7-{[(2R)-2-Hydroxy-2-phenylacetyl]amino}-3-{[(1-methyl-1H-tetrazol-5-yl)sulfanyl]methyl}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid	26	CN1N=NN=C1SCC1=C(N2C(SC1)C(NC(=O)C(O)C1=CC=CC=C1)C2=O)C(O)=O
+levomepromazine	Synonym from Valid Source	DTXSID1023289	Levomethotrimeprazine	60-99-1	VRQVVMDWGGWHTJ-CQSZACIVSA-N	(2R)-3-(2-Methoxy-10H-phenothiazin-10-yl)-N,N,2-trimethylpropan-1-amine	29	COC1=CC2=C(SC3=C(C=CC=C3)N2CC(C)CN(C)C)C=C1
+dienestrol	Approved Name	DTXSID7022382	Dienestrol	84-17-3	NFDFQCUYFHCNBW-SCGPFSFSSA-N	4,4'-(Hexa-2,4-diene-3,4-diyl)diphenol	37	C\C=C(\C(=C\C)\C1=CC=C(O)C=C1)/C1=CC=C(O)C=C1
+methacholine chloride	Approved Name	DTXSID7023271	Methacholine chloride	62-51-1	JHPHVAVFUYTVCL-UHFFFAOYSA-M	2-(Acetyloxy)-N,N,N-trimethylpropan-1-aminium chloride	29	CC(C[N+](C)(C)C)OC(C)=O
+cromoglicic acid	Synonym from Valid Source	DTXSID4022860	Cromolyn	16110-51-3	IMZMKUWMOSJXDT-UHFFFAOYSA-N	5,5'-[(2-Hydroxypropane-1,3-diyl)bis(oxy)]bis(4-oxo-4H-1-benzopyran-2-carboxylic acid)	26	OC(COC1=CC=CC2=C1C(=O)C=C(O2)C(O)=O)COC1=CC=CC2=C1C(=O)C=C(O2)C(O)=O
+ifosfamide	Approved Name	DTXSID7020760	Ifosfamide	3778-73-2	HOMGKSMUEGBAAB-UHFFFAOYSA-N	3-(2-Chloroethyl)-2-[(2-chloroethyl)amino]-1,3,2lambda~5~-oxazaphosphinan-2-one	66	ClCCNP1(=O)OCCCN1CCCl
+imidurea	Synonym from Valid Source	DTXSID2040151	Imidazolidinyl urea	39236-46-9	ZCTXEAQXZGPWFG-UHFFFAOYSA-N	N,N'-Methylenebis{N'-[3-(hydroxymethyl)-2,5-dioxoimidazolidin-4-yl]urea}	55	OCN1C(NC(=O)NCNC(=O)NC2N(CO)C(=O)NC2=O)C(=O)NC1=O
+mecamylamine	Approved Name	DTXSID0023240	Mecamylamine	60-40-2	IMYZQPCYWPFTAG-UHFFFAOYSA-N	N,2,3,3-Tetramethylbicyclo[2.2.1]heptan-2-amine	34	CNC1(C)C2CCC(C2)C1(C)C
+Prestwick-1082	NO_MATCH	-	-	-	-	-	-	-
+prednicarbate	Approved Name	DTXSID9045502	Prednicarbate	73771-04-7	FNPXMHRZILFCKX-KAJVQRHHSA-N	(11beta)-17-[(Ethoxycarbonyl)oxy]-11-hydroxy-3,20-dioxopregna-1,4-dien-21-yl propanoate	26	CCOC(=O)OC1(CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C)C(=O)COC(=O)CC
+cyproterone	Approved Name	DTXSID3022873	Cyproterone	2098-66-0	DUSHUSLJJMDGTE-ZJPMUUANSA-N	(1R,3aS,3bR,7aR,8aS,8bS,8cS,10aS)-1-Acetyl-5-chloro-1-hydroxy-8b,10a-dimethyl-2,3,3a,3b,7a,8,8a,8b,8c,9,10,10a-dodecahydrocyclopenta[a]cyclopropa[g]phenanthren-7(1H)-one	31	CC(=O)C1(O)CCC2C3C=C(Cl)C4=CC(=O)C5CC5C4(C)C3CCC12C
+meprylcaine	Approved Name	DTXSID70197810	Meprylcaine	495-70-5	VXJABHHJLXLNMP-UHFFFAOYSA-N	2-Methyl-2-(propylamino)propyl benzoate	11	CCCNC(C)(C)COC(=O)C1=CC=CC=C1
+sulfadoxine	Approved Name	DTXSID6023608	Sulfadoxine	2447-57-6	PJSFRIWCGOHTNF-UHFFFAOYSA-N	4-Amino-N-(5,6-dimethoxypyrimidin-4-yl)benzene-1-sulfonamide	48	COC1=NC=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=C1OC
+Prestwick-1084	NO_MATCH	-	-	-	-	-	-	-
+natamycin	Approved Name	DTXSID6021163	Natamycin	7681-93-8	NCXMLFZGDNKEPB-FFPOYIOWSA-N	(1R,3S,5R,7R,8E,12R,14E,16E,18E,20E,22R,24S,25R,26S)-22-[(3-Amino-3,6-dideoxy-beta-D-mannopyranosyl)oxy]-1,3,26-trihydroxy-12-methyl-10-oxo-6,11,28-trioxatricyclo[22.3.1.0~5,7~]octacosa-8,14,16,18,20-pentaene-25-carboxylic acid	48	CC1OC(C)(OC2CC3OC(O)(CC(O)C3C(O)=O)CC(O)CC3OC3C=CC(=O)OC(C)CC=CC=CC=CC=C2)C(O)C(N)C1O
+saquinavir	Approved Name	DTXSID6044012	Saquinavir	127779-20-8	QWAXKHKRTORLEM-UGJKXSETSA-N	N~1~-{(2S,3R)-4-[(3S,4aS,8aS)-3-(tert-Butylcarbamoyl)octahydroisoquinolin-2(1H)-yl]-3-hydroxy-1-phenylbutan-2-yl}-N~2~-(quinoline-2-carbonyl)-L-aspartamide	24	CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(CC1=CC=CC=C1)NC(=O)C(CC(N)=O)NC(=O)C1=CC=C2C=CC=CC2=N1
+sertaconazole	Approved Name	DTXSID0048551	Sertaconazole	99592-32-2	JLGKQTAYUIMGRK-UHFFFAOYSA-N	1-{2-[(7-Chloro-1-benzothiophen-3-yl)methoxy]-2-(2,4-dichlorophenyl)ethyl}-1H-imidazole	18	ClC1=CC(Cl)=C(C=C1)C(CN1C=CN=C1)OCC1=CSC2=C1C=CC=C2Cl
+milrinone	Approved Name	DTXSID5023324	Milrinone	78415-72-2	PZRHRDRVRGEVNW-UHFFFAOYSA-N	2-Methyl-6-oxo-1,6-dihydro[3,4'-bipyridine]-5-carbonitrile	51	CC1=C(C=C(C#N)C(=O)N1)C1=CC=NC=C1
+piperidolate	Approved Name	DTXSID7048164	Piperidolate	82-98-4	KTHVBAZBLKXIHZ-UHFFFAOYSA-N	1-Ethylpiperidin-3-yl diphenylacetate	20	CCN1CCCC(C1)OC(=O)C(C1=CC=CC=C1)C1=CC=CC=C1
+dexpropranolol	Approved Name	DTXSID3045304	Dexpropranolol	5051-22-9	AQHHHDLHHXJYJD-CQSZACIVSA-N	(2R)-1-[(Naphthalen-1-yl)oxy]-3-[(propan-2-yl)amino]propan-2-ol	21	CC(C)NCC(O)COC1=C2C=CC=CC2=CC=C1
+cyclopentolate	Approved Name	DTXSID3048528	Cyclopentolate	512-15-2	SKYSRIRYMSLOIN-UHFFFAOYSA-N	2-(Dimethylamino)ethyl (1-hydroxycyclopentyl)(phenyl)acetate	22	CN(C)CCOC(=O)C(C1=CC=CC=C1)C1(O)CCCC1
+Prestwick-1085	NO_MATCH	-	-	-	-	-	-	-
+verteporfin	Approved Name	DTXSID2045604	Verteporfin	129497-78-5	-	-	19	-
+repaglinide	Approved Name	DTXSID3023552	Repaglinide	135062-02-1	FAEKWTJYAYMJKF-QHCPKHFHSA-N	2-Ethoxy-4-[2-({(1S)-3-methyl-1-[2-(piperidin-1-yl)phenyl]butyl}amino)-2-oxoethyl]benzoic acid	40	CCOC1=C(C=CC(CC(=O)NC(CC(C)C)C2=CC=CC=C2N2CCCCC2)=C1)C(O)=O
+ronidazole	Approved Name	DTXSID6045400	Ronidazole	7681-76-7	PQFRTXSWDXZRRS-UHFFFAOYSA-N	(1-Methyl-5-nitro-1H-imidazol-2-yl)methyl carbamate	53	CN1C(COC(N)=O)=NC=C1[N+]([O-])=O
+trifluridine	Approved Name	DTXSID4046602	Trifluridine	70-00-8	VSQQQLOSPVPRAZ-RRKCRQDMSA-N	2'-Deoxy-5-(trifluoromethyl)uridine	31	OCC1OC(CC1O)N1C=C(C(=O)NC1=O)C(F)(F)F
+cycloserine	Approved Name	DTXSID8022870	Cycloserine	68-41-7	DYDCUQKUCUHJBH-UWTATZPHSA-N	(4R)-4-Amino-1,2-oxazolidin-3-one	41	NC1CONC1=O
+methanthelinium bromide	NO_MATCH	-	-	-	-	-	-	-
+ciprofibrate	Approved Name	DTXSID8020331	Ciprofibrate	52214-84-3	KPSRODZRAIWAKH-UHFFFAOYSA-N	2-[4-(2,2-Dichlorocyclopropyl)phenoxy]-2-methylpropanoic acid	45	CC(C)(OC1=CC=C(C=C1)C1CC1(Cl)Cl)C(O)=O
+estriol	Approved Name	DTXSID9022366	Estriol	50-27-1	PROQIPRRNZUXQM-ZXXIGWHRSA-N	(16alpha,17beta)-Estra-1,3,5(10)-triene-3,16,17-triol	66	CC12CCC3C(CCC4=C3C=CC(O)=C4)C1CC(O)C2O
+dorzolamide	Approved Name	DTXSID7022960	Dorzolamide	120279-96-1	IAVUPMFITXYVAF-XPUUQOCRSA-N	(4S,6S)-4-(Ethylamino)-6-methyl-7,7-dioxo-4,5,6,7-tetrahydro-7lambda~6~-thieno[2,3-b]thiopyran-2-sulfonamide	22	CCNC1CC(C)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O
+meropenem	Approved Name	DTXSID7045526	Meropenem	96036-03-2	DMJNNHOOLUXYBV-PQTSNVLCSA-N	(4R,5S,6S)-3-{[(3S,5S)-5-(Dimethylcarbamoyl)pyrrolidin-3-yl]sulfanyl}-6-[(1R)-1-hydroxyethyl]-4-methyl-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid	29	CC(O)C1C2C(C)C(SC3CNC(C3)C(=O)N(C)C)=C(N2C1=O)C(O)=O
+piretanide	Approved Name	DTXSID2023488	Piretanide	55837-27-9	UJEWTUDSLQGTOA-UHFFFAOYSA-N	4-Phenoxy-3-(pyrrolidin-1-yl)-5-sulfamoylbenzoic acid	37	NS(=O)(=O)C1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)N1CCCC1
+oxprenolol	Approved Name	DTXSID1043835	Oxprenolol	6452-71-7	CEMAWMOMDPGJMB-UHFFFAOYSA-N	1-[(Propan-2-yl)amino]-3-{2-[(prop-2-en-1-yl)oxy]phenoxy}propan-2-ol	30	CC(C)NCC(O)COC1=CC=CC=C1OCC=C
+tropine	Approved Name	DTXSID2049399	Tropine	120-29-6	CYHOMWAPJJPNMW-JIGDXULJSA-N	(1R,3r,5S)-8-Methyl-8-azabicyclo[3.2.1]octan-3-ol	31	[H]C12CCC([H])(CC(O)C1)N2C
+(-)-isoprenaline	Synonym	DTXSID2043878	Levoisoproterenol	51-31-0	JWZZKOKVBUJMES-NSHDSACASA-N	4-{(1R)-1-Hydroxy-2-[(propan-2-yl)amino]ethyl}benzene-1,2-diol	11	CC(C)NCC(O)C1=CC=C(O)C(O)=C1
+chloropyrazine	Integrated Source Name	DTXSID0065779	Pyrazine, chloro-	14508-49-7	GELVZYOEQVJIRR-UHFFFAOYSA-N	2-Chloropyrazine	19	ClC1=NC=CN=C1
+azaperone	Approved Name	DTXSID2045361	Azaperone	1649-18-9	XTKDAFGWCDAMPY-UHFFFAOYSA-N	1-(4-Fluorophenyl)-4-[4-(pyridin-2-yl)piperazin-1-yl]butan-1-one	39	FC1=CC=C(C=C1)C(=O)CCCN1CCN(CC1)C1=CC=CC=N1
+thiethylperazine	Approved Name	DTXSID1023651	Thiethylperazine	1420-55-9	XCTYLCDETUVOIP-UHFFFAOYSA-N	2-(Ethylsulfanyl)-10-[3-(4-methylpiperazin-1-yl)propyl]-10H-phenothiazine	31	CCSC1=CC2=C(SC3=C(C=CC=C3)N2CCCN2CCN(C)CC2)C=C1
+ramipril	Approved Name	DTXSID8023551	Ramipril	87333-19-5	HDACQVRGBOVJII-JBDAPHQKSA-N	(2S,3aS,6aS)-1-[(2S)-2-{[(2S)-1-Ethoxy-1-oxo-4-phenylbutan-2-yl]amino}propanoyl]octahydrocyclopenta[b]pyrrole-2-carboxylic acid (non-preferred name)	42	CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N1C2CCCC2CC1C(O)=O
+ondansetron	Approved Name	DTXSID8023393	Ondansetron	99614-02-5	FELGMEQIXOGIFQ-UHFFFAOYSA-N	9-Methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-1,2,3,9-tetrahydro-4H-carbazol-4-one	38	CN1C2=C(C3=CC=CC=C13)C(=O)C(CN1C=CN=C1C)CC2
+piperacetazine	Approved Name	DTXSID7023481	Piperacetazine	3819-00-9	BTFMCMVEUCGQDX-UHFFFAOYSA-N	1-(10-{3-[4-(2-Hydroxyethyl)piperidin-1-yl]propyl}-10H-phenothiazin-2-yl)ethan-1-one	34	CC(=O)C1=CC2=C(SC3=CC=CC=C3N2CCCN2CCC(CCO)CC2)C=C1
+benzylpenicillin	Synonym from Valid Source	DTXSID5046934	Penicillin G	61-33-6	JGSARLDLIJGVTE-MBNYWOFBSA-N	(2S,5R,6R)-3,3-Dimethyl-7-oxo-6-(2-phenylacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	41	CC1(C)SC2C(NC(=O)CC3=CC=CC=C3)C(=O)N2C1C(O)=O
+oxedrine	Synonym	DTXSID0030588	p-Synephrine	94-07-5	YRCWQPVGYLYSOX-UHFFFAOYSA-N	4-[1-Hydroxy-2-(methylamino)ethyl]phenol	42	CNCC(O)C1=CC=C(O)C=C1
+kaempferol	Approved Name	DTXSID7020768	Kaempferol	520-18-3	IYRMWMYZSQPJKC-UHFFFAOYSA-N	3,5,7-Trihydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one	62	OC1=CC=C(C=C1)C1=C(O)C(=O)C2=C(O1)C=C(O)C=C2O
+mephenytoin	Approved Name	DTXSID9023257	Mephenytoin	50-12-4	GMHKMTDVRCWUDX-UHFFFAOYSA-N	5-Ethyl-3-methyl-5-phenylimidazolidine-2,4-dione	33	CCC1(NC(=O)N(C)C1=O)C1=CC=CC=C1
+cefepime	Approved Name	DTXSID70873208	Cefepime	88040-23-7	HVFLCNVBZFFHBT-ZKDACBOMSA-N	(6R,7R)-7-{[(2Z)-2-(2-Amino-1,3-thiazol-4-yl)-2-(methoxyimino)acetyl]amino}-3-[(1-methylpyrrolidin-1-ium-1-yl)methyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	14	CO\N=C(\C(=O)NC1C2SCC(C[N+]3(C)CCCC3)=C(N2C1=O)C(O)=O)c1csc(N)n1
+oxyphenbutazone	Approved Name	DTXSID1045291	Oxyphenbutazone	129-20-4	HFHZKZSRXITVMK-UHFFFAOYSA-N	4-Butyl-1-(4-hydroxyphenyl)-2-phenylpyrazolidine-3,5-dione	42	CCCCC1C(=O)N(N(C1=O)C1=CC=C(O)C=C1)C1=CC=CC=C1
+propoxycaine	Approved Name	DTXSID6047866	Propoxycaine	86-43-1	CAJIGINSTLKQMM-UHFFFAOYSA-N	2-(Diethylamino)ethyl 4-amino-2-propoxybenzoate	19	CCCOC1=CC(N)=CC=C1C(=O)OCCN(CC)CC
+PNU-0230031	NO_MATCH	-	-	-	-	-	-	-
+0179445-0000	NO_MATCH	-	-	-	-	-	-	-
+PNU-0251126	NO_MATCH	-	-	-	-	-	-	-
+0175029-0000	NO_MATCH	-	-	-	-	-	-	-
+0173570-0000	NO_MATCH	-	-	-	-	-	-	-
+0317956-0000	NO_MATCH	-	-	-	-	-	-	-
+PHA-00851261E	NO_MATCH	-	-	-	-	-	-	-
+chlorambucil	Approved Name	DTXSID7020263	Chlorambucil	305-03-3	JCKYGMPEJWAADB-UHFFFAOYSA-N	4-{4-[Bis(2-chloroethyl)amino]phenyl}butanoic acid	68	OC(=O)CCCC1=CC=C(C=C1)N(CCCl)CCCl
+nialamide	Approved Name	DTXSID1023362	Nialamide	51-12-7	NOIIUHRQUVNIDD-UHFFFAOYSA-N	N-Benzyl-3-[2-(pyridine-4-carbonyl)hydrazinyl]propanamide	44	O=C(CCNNC(=O)C1=CC=NC=C1)NCC1=CC=CC=C1
+levcycloserine	NO_MATCH	-	-	-	-	-	-	-
+santonin	Synonym from Valid Source	DTXSID7045312	alpha-Santonin	481-06-1	XJHDMGJURBVLLE-BOCCBSBMSA-N	(3S,3aS,5aS,9bS)-3,5a,9-Trimethyl-3a,5,5a,9b-tetrahydronaphtho[1,2-b]furan-2,8(3H,4H)-dione	31	CC1C2CCC3(C)C=CC(=O)C(C)=C3C2OC1=O
+Prestwick-1080	NO_MATCH	-	-	-	-	-	-	-
+quinethazone	Approved Name	DTXSID9023548	Quinethazone	73-49-4	AGMMTXLNIQSRCG-UHFFFAOYSA-N	7-Chloro-2-ethyl-4-oxo-1,2,3,4-tetrahydroquinazoline-6-sulfonamide	38	CCC1NC(=O)C2=CC(=C(Cl)C=C2N1)S(N)(=O)=O
+homosalate	Integrated Source Name	DTXSID1026241	3,3,5-Trimethylcyclohexyl salicylate	118-56-9	WSSJONWNBBTCMG-UHFFFAOYSA-N	3,3,5-Trimethylcyclohexyl 2-hydroxybenzoate	59	CC1CC(CC(C)(C)C1)OC(=O)C1=C(O)C=CC=C1
+Prestwick-1100	NO_MATCH	-	-	-	-	-	-	-
+ciclacillin	Synonym from Valid Source	DTXSID9022861	Cyclacillin	3485-14-1	HGBLNBBNRORJKI-WCABBAIRSA-N	(2S,5R,6R)-6-[(1-Aminocyclohexane-1-carbonyl)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	37	CC1(C)SC2C(NC(=O)C3(N)CCCCC3)C(=O)N2C1C(O)=O
+parbendazole	Approved Name	DTXSID0045410	Parbendazole	14255-87-9	YRWLZFXJFBZBEY-UHFFFAOYSA-N	Methyl (5-butyl-1H-benzimidazol-2-yl)carbamate	31	CCCCC1=CC2=C(NC(NC(=O)OC)=N2)C=C1
+2,6-dimethylpiperidine	NO_MATCH	-	-	-	-	-	-	-
+spiradoline	Approved Name	DTXSID1048679	Spiradoline	87151-85-7	NYKCGQQJNVPOLU-ONTIZHBOSA-N	2-(3,4-Dichlorophenyl)-N-methyl-N-[(5R,7S,8S)-7-(pyrrolidin-1-yl)-1-oxaspiro[4.5]decan-8-yl]acetamide	22	CN(C1CCC2(CCCO2)CC1N1CCCC1)C(=O)CC1=CC(Cl)=C(Cl)C=C1
+withaferin A	NO_MATCH	-	-	-	-	-	-	-
+citalopram	Approved Name	DTXSID8022826	Citalopram	59729-33-8	WSEQXVZVJXJVFP-UHFFFAOYSA-N	1-[3-(Dimethylamino)propyl]-1-(4-fluorophenyl)-1,3-dihydro-2-benzofuran-5-carbonitrile	45	CN(C)CCCC1(OCC2=CC(=CC=C12)C#N)C1=CC=C(F)C=C1
+paroxetine	Approved Name	DTXSID3023425	Paroxetine	61869-08-7	AHOUBRCZNHFOSL-YOEHRIQHSA-N	(3S,4R)-3-{[(2H-1,3-Benzodioxol-5-yl)oxy]methyl}-4-(4-fluorophenyl)piperidine	46	FC1=CC=C(C=C1)C1CCNCC1COC1=CC=C2OCOC2=C1
+CP-690334-01	NO_MATCH	-	-	-	-	-	-	-
+PHA-00745360	NO_MATCH	-	-	-	-	-	-	-
+CP-320650-01	NO_MATCH	-	-	-	-	-	-	-
+rifabutin	Approved Name	DTXSID0033960	Rifabutin	72559-06-9	ATEBXHFBFRCZMA-VXTBVIBXSA-N	(9S,12E,14S,15R,16S,17R,18R,19R,20S,21S,22E,24Z)-6,18,20-Trihydroxy-14-methoxy-7,9,15,17,19,21,25-heptamethyl-1'-(2-methylpropyl)-5,10,26-trioxo-3,5,9,10-tetrahydrospiro[9,4-(epoxypentadeca[1,11,13]trienoimino)furo[2',3':7,8]naphtho[1,2-d]imidazole-2,4'-piperidin]-16-yl acetate	39	COC1\C=C/OC2(C)OC3=C(C2=O)C2=C(C(O)=C3C)C(=O)C(NC(=O)\C(C)=C/C=C\C(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C)=C1NC3(CCN(CC(C)C)CC3)N=C21
+alcuronium chloride	Approved Name	DTXSID0045414	Alcuronium chloride	15180-03-7	CPYGBGOXCJJJGC-GKLGUMFISA-L	(1R,3aR,9Z,10S,11aS,12R,14aR,19aS,20Z,20bS,21S,22aS,23E,26E)-23,26-Bis(2-hydroxyethylidene)-1,12-di(prop-2-en-1-yl)-1,2,3,10,11,11a,12,13,14,21,22,22a-dodecahydro-19aH,20bH-1,21:10,12-diethanodipyrrolo[3,2-f:3,2-f'][1,5]diazocino[3,2,1-jk:7,6,5-j'k']dicarbazole-1,12-diium dichloride	21	[H]C12CC3([H])\C(C[N+]1(CC=C)CCC21C2N(\C=C4/C5N(\C=C3/2)C2=C(C=CC=C2)C52CC[N+]3(CC=C)C\C(=C\CO)C4([H])CC23[H])C2=CC=CC=C12)=C\CO
+clobetasol	Approved Name	DTXSID2048955	Clobetasol	25122-41-2	FCSHDIVRCWTZOX-DVTGEIKXSA-N	(11beta,16beta)-21-Chloro-9-fluoro-11,17-dihydroxy-16-methylpregna-1,4-diene-3,20-dione	23	CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CCl
+phenoxybenzamine	Approved Name	DTXSID0023458	Phenoxybenzamine	59-96-1	QZVCTJOXCFMACW-UHFFFAOYSA-N	N-Benzyl-N-(2-chloroethyl)-1-phenoxypropan-2-amine	41	CC(COC1=CC=CC=C1)N(CCCl)CC1=CC=CC=C1
+timolol	Synonym from Valid Source	DTXSID4023674	(S)-Timolol	26839-75-8	BLJRIMJGRPQVNF-JTQLQIEISA-N	(2S)-1-(tert-Butylamino)-3-{[4-(morpholin-4-yl)-1,2,5-thiadiazol-3-yl]oxy}propan-2-ol	38	CC(C)(C)NCC(O)COC1=NSN=C1N1CCOCC1
+daunorubicin	Approved Name	DTXSID7022883	Daunorubicin	20830-81-3	STQGQHZAVUOBTE-VGBVRHCVSA-N	(1S,3S)-3-Acetyl-3,5,12-trihydroxy-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranoside	52	COC1=CC=CC2=C1C(=O)C1=C(C(O)=C3CC(O)(CC(OC4CC(N)C(O)C(C)O4)C3=C1O)C(C)=O)C2=O
+nomegestrol	NO_MATCH	-	-	-	-	-	-	-
+ticarcillin	Approved Name	DTXSID0023668	Ticarcillin	34787-01-4	OHKOGUYZJXTSFX-KZFFXBSXSA-N	(2S,5R,6R)-6-{[(2R)-2-Carboxy-2-(thiophen-3-yl)acetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	26	CC1(C)SC2C(NC(=O)C(C(O)=O)C3=CSC=C3)C(=O)N2C1C(O)=O
+AG-013608	NO_MATCH	-	-	-	-	-	-	-
+valinomycin	Approved Name	DTXSID9041150	Valinomycin	2001-95-8	MBXQOFMOLUBOIN-UHFFFAOYSA-N	3,15,27-Trimethyl-6,9,12,18,21,24,30,33,36-nona(propan-2-yl)-1,4,10,16,22,28-hexaoxa-7,13,19,25,31,34-hexaazacyclohexatriacontane-2,5,8,11,14,17,20,23,26,29,32,35-dodecone	28	CC(C)C1NC(=O)C(OC(=O)C(C)OC(=O)C(NC(=O)C(OC(=O)C(NC(=O)C(C)OC(=O)C(NC(=O)C(OC(=O)C(NC(=O)C(C)OC(=O)C(NC1=O)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C
+rotenone	Approved Name	DTXSID6021248	Rotenone	83-79-4	JUVIOZPCNVVQFO-HBGVWJBISA-N	(2R,6aS,12aS)-8,9-Dimethoxy-2-(prop-1-en-2-yl)-1,2,12,12a-tetrahydrofuro[2',3':7,8][1]benzopyrano[2,3-c][1]benzopyran-6(6aH)-one	90	COC1=CC2=C(C=C1OC)C1C(CO2)OC2=C3CC(OC3=CC=C2C1=O)C(C)=C
+PF-00562151-00	NO_MATCH	-	-	-	-	-	-	-
+PF-00875133-00	NO_MATCH	-	-	-	-	-	-	-
+pioglitazone	Approved Name	DTXSID3037129	Pioglitazone	111025-46-8	HYAFETHFCAUJAY-UHFFFAOYSA-N	5-({4-[2-(5-Ethylpyridin-2-yl)ethoxy]phenyl}methyl)-1,3-thiazolidine-2,4-dione	35	CCC1=CN=C(CCOC2=CC=C(CC3SC(=O)NC3=O)C=C2)C=C1
+H-7	NO_MATCH	-	-	-	-	-	-	-
+PF-00539745-00	NO_MATCH	-	-	-	-	-	-	-
+PF-01378883-00	NO_MATCH	-	-	-	-	-	-	-
+erastin	Approved Name	DTXSID80458949	ERASTIN	571203-78-6	BKQFRNYHFIQEKN-UHFFFAOYSA-N	2-(1-{4-[(4-Chlorophenoxy)acetyl]piperazin-1-yl}ethyl)-3-(2-ethoxyphenyl)quinazolin-4(3H)-one	6	CCOC1=CC=CC=C1N1C(=O)C2=CC=CC=C2N=C1C(C)N1CCN(CC1)C(=O)COC1=CC=C(Cl)C=C1
+valdecoxib	Approved Name	DTXSID6044226	Valdecoxib	181695-72-7	LNPDTQAFDNKSHK-UHFFFAOYSA-N	4-(5-Methyl-3-phenyl-1,2-oxazol-4-yl)benzene-1-sulfonamide	38	CC1=C(C(=NO1)C1=CC=CC=C1)C1=CC=C(C=C1)S(N)(=O)=O
+3-nitropropionic acid	Approved Name	DTXSID1020982	3-Nitropropionic acid	504-88-1	WBLZUCOIBUDNBV-UHFFFAOYSA-N	3-Nitropropanoic acid	50	OC(=O)CC[N+]([O-])=O
+PF-00539758-00	NO_MATCH	-	-	-	-	-	-	-
+STOCK1N-35215	NO_MATCH	-	-	-	-	-	-	-
+orlistat	Approved Name	DTXSID8023395	Orlistat	96829-58-2	AHLBNYSZXLDEJQ-FWEHEUNISA-N	(2S)-1-[(2S,3S)-3-Hexyl-4-oxooxetan-2-yl]tridecan-2-yl N-formyl-L-leucinate	35	CCCCCCCCCCCC(CC1OC(=O)C1CCCCCC)OC(=O)C(CC(C)C)NC=O
+0225151-0000	NO_MATCH	-	-	-	-	-	-	-
+5707885	NO_MATCH	-	-	-	-	-	-	-
+F0447-0125	NO_MATCH	-	-	-	-	-	-	-
+C-75	NO_MATCH	-	-	-	-	-	-	-
+5155877	NO_MATCH	-	-	-	-	-	-	-
+PHA-00767505E	NO_MATCH	-	-	-	-	-	-	-
+dinoprostone	Approved Name	DTXSID4022947	Dinoprostone	363-24-6	XEYBRNLFEZDVAW-ARSRFYASSA-N	(5Z,11alpha,13E,15S)-11,15-Dihydroxy-9-oxoprosta-5,13-dien-1-oic acid	46	CCCCCC(O)\C=C\C1C(O)CC(=O)C1C\C=C/CCCC(O)=O
+5194442	NO_MATCH	-	-	-	-	-	-	-
+AG-028671	NO_MATCH	-	-	-	-	-	-	-
+Gly-His-Lys	Synonym	DTXSID30197831	Glycyl-histidyl-lysine	49557-75-7	MVORZMQFXBLMHM-QWRGUYRKSA-N	Glycyl-L-histidyl-L-lysine	10	NCCCCC(NC(=O)C(CC1=CN=CN1)NC(=O)CN)C(O)=O
+STOCK1N-35874	NO_MATCH	-	-	-	-	-	-	-
+16,16-dimethylprostaglandin E2	NO_MATCH	-	-	-	-	-	-	-
+6-bromoindirubin-3'-oxime	NO_MATCH	-	-	-	-	-	-	-
+PNU-0293363	NO_MATCH	-	-	-	-	-	-	-
+STOCK1N-35696	NO_MATCH	-	-	-	-	-	-	-
+PHA-00665752	NO_MATCH	-	-	-	-	-	-	-
+STOCK1N-28457	NO_MATCH	-	-	-	-	-	-	-
+SC-560	Approved Name	DTXSID00401775	SC-560	188817-13-2	PQUGCKBLVKJMNT-UHFFFAOYSA-N	5-(4-Chlorophenyl)-1-(4-methoxyphenyl)-3-(trifluoromethyl)-1H-pyrazole	14	COC1=CC=C(C=C1)N1N=C(C=C1C1=CC=C(Cl)C=C1)C(F)(F)F
+H-89	NO_MATCH	-	-	-	-	-	-	-
+BAS-012416453	NO_MATCH	-	-	-	-	-	-	-
+carmustine	Approved Name	DTXSID8022743	Carmustine	154-93-8	DLGOEMSEDOSKAD-UHFFFAOYSA-N	N,N'-Bis(2-chloroethyl)-N-nitrosourea	54	ClCCNC(=O)N(CCCl)N=O
+SB-202190	Synonym	DTXSID7041120	SB202190	152121-30-7	QHKYPYXTTXKZST-UHFFFAOYSA-N	4-[5-(4-Fluorophenyl)-4-(pyridin-4-yl)-1H-imidazol-2-yl]phenol	18	OC1=CC=C(C=C1)C1=NC(=C(N1)C1=CC=C(F)C=C1)C1=CC=NC=C1
+AH-23848	NO_MATCH	-	-	-	-	-	-	-
+AG-012559	NO_MATCH	-	-	-	-	-	-	-
+NS-398	Synonym	DTXSID8041084	NS398	123653-11-2	KTDZCOWXCWUPEO-UHFFFAOYSA-N	N-[2-(Cyclohexyloxy)-4-nitrophenyl]methanesulfonamide	20	CS(=O)(=O)NC1=C(OC2CCCCC2)C=C(C=C1)[N+]([O-])=O
+SB-203580	Synonym	DTXSID2040577	SB203580	152121-47-6	CDMGBJANTYXAIV-UHFFFAOYSA-N	4-{4-(4-Fluorophenyl)-2-[4-(methanesulfinyl)phenyl]-1H-imidazol-5-yl}pyridine	22	CS(=O)C1=CC=C(C=C1)C1=NC(=C(N1)C1=CC=NC=C1)C1=CC=C(F)C=C1
+0297417-0002B	NO_MATCH	-	-	-	-	-	-	-
+scriptaid	Approved Name	DTXSID70274458	scriptaid	287383-59-9	JTDYUFSDZATMKU-UHFFFAOYSA-N	6-(1,3-Dioxo-1H-benzo[de]isoquinolin-2(3H)-yl)-N-hydroxyhexanamide	12	ONC(=O)CCCCCN1C(=O)C2=CC=CC3=C2C(=CC=C3)C1=O
+lomustine	Approved Name	DTXSID2023222	Lomustine	13010-47-4	GQYIWUVLTXOXAJ-UHFFFAOYSA-N	N-(2-Chloroethyl)-N'-cyclohexyl-N-nitrosourea	48	ClCCN(N=O)C(=O)NC1CCCCC1
+PHA-00846566E	NO_MATCH	-	-	-	-	-	-	-
+AH-6809	NO_MATCH	-	-	-	-	-	-	-
+thapsigargin	Approved Name	DTXSID5040621	Thapsigargin	67526-95-8	PZFYWFWRXNLJEP-LKQWZXAZSA-N	(3S,3aR,4S,6S,6aR,7S,8S,9bS)-6-(Acetyloxy)-4-(butanoyloxy)-3,3a-dihydroxy-3,6-dimethyl-8-{[(3Z)-3-methylpent-3-enoyl]oxy}-2-oxo-2,3,3a,4,5,6,6a,7,8,9b-decahydroazuleno[4,5-b]furan-7-yl octanoate	19	CCCCCCCC(=O)OC1C(OC(=O)C\C(C)=C\C)C=C2C3OC(=O)C(C)(O)C3(O)C(CC(C)(OC(C)=O)C12)OC(=O)CCC
+alsterpaullone	Approved Name	DTXSID50407444	alsterpaullone	237430-03-4	OLUKILHGKRVDCT-UHFFFAOYSA-N	9-Nitro-7,12-dihydroindolo[3,2-d][1]benzazepin-6(5H)-one	13	[O-][N+](=O)C1=CC2=C(NC3=C2CC(=O)NC2=CC=CC=C32)C=C1
+0316684-0000	NO_MATCH	-	-	-	-	-	-	-
+SC-19220	NO_MATCH	-	-	-	-	-	-	-
+MG-262	NO_MATCH	-	-	-	-	-	-	-
+0198306-0000	NO_MATCH	-	-	-	-	-	-	-
+GW-8510	NO_MATCH	-	-	-	-	-	-	-
+AR-A014418	Approved Name	DTXSID80332270	AR-A014418	487021-52-3	YAEMHJKFIIIULI-UHFFFAOYSA-N	N-[(4-Methoxyphenyl)methyl]-N'-(5-nitro-1,3-thiazol-2-yl)urea	11	COC1=CC=C(CNC(=O)NC2=NC=C(S2)[N+]([O-])=O)C=C1
+CAY-10397	NO_MATCH	-	-	-	-	-	-	-
+MS-275	Approved Name	DTXSID0041068	MS-275	209783-80-2	INVTYAOGFAGBOE-UHFFFAOYSA-N	(Pyridin-3-yl)methyl ({4-[(2-aminophenyl)carbamoyl]phenyl}methyl)carbamate	24	NC1=C(NC(=O)C2=CC=C(CNC(=O)OCC3=CN=CC=C3)C=C2)C=CC=C1
+PHA-00816795	NO_MATCH	-	-	-	-	-	-	-
+BCB000040	NO_MATCH	-	-	-	-	-	-	-
+CP-319743	NO_MATCH	-	-	-	-	-	-	-
+15(S)-15-methylprostaglandin E2	NO_MATCH	-	-	-	-	-	-	-
+semustine	Approved Name	DTXSID8031603	Semustine	13909-09-6	FVLVBPDQNARYJU-UHFFFAOYSA-N	N-(2-Chloroethyl)-N'-(4-methylcyclohexyl)-N-nitrosourea	31	CC1CCC(CC1)NC(=O)N(CCCl)N=O
+suramin sodium	NO_MATCH	-	-	-	-	-	-	-
+CP-944629	Approved Name	DTXSID1057876	CP-944629	NOCAS_57876	VNZJNPIWZYMGAO-UHFFFAOYSA-N	3-tert-Butyl-6-[4-(2,4,5-trifluorophenyl)-1,3-oxazol-5-yl][1,2,4]triazolo[4,3-a]pyridine	6	CC(C)(C)C1=NN=C2C=CC(=CN12)C1=C(N=CO1)C1=CC(F)=C(F)C=C1F
+irinotecan	Approved Name	DTXSID1041051	Irinotecan	97682-44-5	UWKQSNNFCGGAFS-XIFFEERXSA-N	(4S)-4,11-Diethyl-4-hydroxy-3,14-dioxo-3,4,12,14-tetrahydro-1H-pyrano[3',4':6,7]indolizino[1,2-b]quinolin-9-yl [1,4'-bipiperidine]-1'-carboxylatato	25	CCC1=C2C=C(OC(=O)N3CCC(CC3)N3CCCCC3)C=CC2=NC2=C1CN1C2=CC2=C(COC(=O)C2(O)CC)C1=O
+meteneprost	NO_MATCH	-	-	-	-	-	-	-
+16-phenyltetranorprostaglandin E2	NO_MATCH	-	-	-	-	-	-	-
+CP-863187	Approved Name	DTXSID0047294	CP-863187	668981-02-0	UACOXBQBNWQWOK-UHFFFAOYSA-N	6-[4-(2,5-Difluorophenyl)-1,3-oxazol-5-yl]-3-(propan-2-yl)[1,2,4]triazolo[4,3-a]pyridine	35	CC(C)C1=NN=C2C=CC(=CN12)C1=C(N=CO1)C1=CC(F)=CC=C1F
+BCB000039	NO_MATCH	-	-	-	-	-	-	-
+11-deoxy-16,16-dimethylprostaglandin E2	NO_MATCH	-	-	-	-	-	-	-
+IC-86621	NO_MATCH	-	-	-	-	-	-	-
+vinblastine	Approved Name	DTXSID8021430	Vinblastine	865-21-4	JXLYSJRDGCGARV-CFWMRBGOSA-N	Vincaleukoblastine	31	[H]C12CN(CC(O)(CC)C1)CCC1=C(NC3=CC=CC=C13)C(C2)(C(=O)OC)C1=CC2=C(C=C1OC)N(C)C1C22CCN3CC=CC(CC)(C23)C(OC(C)=O)C1(O)C(=O)OC
+CP-645525-01	NO_MATCH	-	-	-	-	-	-	-
+BCB000038	NO_MATCH	-	-	-	-	-	-	-
